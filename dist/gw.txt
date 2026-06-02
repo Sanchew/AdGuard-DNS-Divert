@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-06-01 10:46:09
+# 自动生成于 2026-06-02 10:44:07
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -63,8 +63,8 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32892 个域名，逐条规则）
-# 已排除 19 个自定义DNS域名（含通配符模糊覆盖）
+# 国外域名规则（共 32829 个域名，逐条规则）
+# 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/01.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -100,7 +100,6 @@ https://dns.alidns.com/dns-query
 [/1111mod-tube.buzz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/1111mode.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/1111modpo.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/111666.best/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/112263.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/114av.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/119474.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -304,8 +303,8 @@ https://dns.alidns.com/dns-query
 [/21vv.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/228.net.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/233abc.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/233v2.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/2371tom.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/24hbook.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/24hjav.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/24hrs.ca/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/24porn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -327,7 +326,6 @@ https://dns.alidns.com/dns-query
 [/2chav.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/2dgen.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/2drdrebeats.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/2du5.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/2gayboys.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/2k.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/2kcoretech.online/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -788,6 +786,7 @@ https://dns.alidns.com/dns-query
 [/ablmm.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ablwang.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/aboluowang.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/about.gitlab.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/about.google/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/about.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/aboutamazon.co.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -868,6 +867,7 @@ https://dns.alidns.com/dns-query
 [/aces.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/acets.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/acevpn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/acg.mn/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/acg.rip/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/acg18.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/acgbox.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -1239,6 +1239,7 @@ https://dns.alidns.com/dns-query
 [/ai.dev/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ai.google/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ai.google.dev/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/ai.studio/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ai3sd.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ai7995.site/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ai91porn.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -1339,7 +1340,6 @@ https://dns.alidns.com/dns-query
 [/aistudio.google.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ait.org.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/aiv-cdn.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/aiv-cdn.net.c.footprint.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/aiv-delivery.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/aiweiwei.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/aiweiweiblog.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -1383,6 +1383,7 @@ https://dns.alidns.com/dns-query
 [/akamai.co.kr/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/akamai.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/akamai.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/akamai.tvb.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/akamaiedge.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/akamaientrypoint.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/akamaietpcnctest.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -1420,6 +1421,7 @@ https://dns.alidns.com/dns-query
 [/akdn/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/akiba-online.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/akiba-web.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/akile.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/akinator.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/akow.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/akthelp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -1893,7 +1895,6 @@ https://dns.alidns.com/dns-query
 [/animepornhd.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/animesex.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/animesexhq.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/animeshippuuden.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/animestigma.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/animezilla.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/aniscartujo.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -1901,7 +1902,10 @@ https://dns.alidns.com/dns-query
 [/ankarazirvesi2018.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/anm.co.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/annamilk.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/annas-archive.gd/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/annas-archive.gl/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/annas-archive.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/annas-archive.pk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/annas-archive.se/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/annatam.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/anniesland-fe.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -1915,7 +1919,6 @@ https://dns.alidns.com/dns-query
 [/anonfiles.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/anonproxy.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/anontext.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/anonymise.us/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/anonymitynetwork.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/anonymizer.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/anonymouse.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -1943,6 +1946,7 @@ https://dns.alidns.com/dns-query
 [/antiwave.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/antpool.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/anudetube.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/anuneko.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/anws.gov.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/anxiangxing.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/anybunny.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -2016,6 +2020,7 @@ https://dns.alidns.com/dns-query
 [/api.mixpanel.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/api.nebula-emby.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/api.news/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/api.palworldgame.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/api.proxlet.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/api.pureapk.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/api.recaptcha.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -2032,9 +2037,7 @@ https://dns.alidns.com/dns-query
 [/apisof.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/apk-dl.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/apk.support/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/apk.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/apkcombo.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/apkdler.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/apkfind.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/apkmirror.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/apkmonk.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -2061,6 +2064,7 @@ https://dns.alidns.com/dns-query
 [/app-store.wang/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/app.box.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/app.cloudcone.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/app.element.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/app.evozi.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/app.heywire.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/app.smartmailcloud.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -2408,7 +2412,6 @@ https://dns.alidns.com/dns-query
 [/appshopper.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/appsocks.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/appsonebay.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/appspot-preview.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/appspot.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/appsto.re/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/appstore.co.id/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -2484,6 +2487,7 @@ https://dns.alidns.com/dns-query
 [/area120.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/area51.to/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/areca-backup.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/arena.ai/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/arena.taipei/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/arethusa.su/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/arewereadyyet.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -2511,7 +2515,6 @@ https://dns.alidns.com/dns-query
 [/arphic.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/arrc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ars.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/arstechnica.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/art1lib.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/art4tibet1998.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/artcam.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -2539,13 +2542,14 @@ https://dns.alidns.com/dns-query
 [/artsy.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/aru.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/arukas.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/arunachalforests.gov.in/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/arupoc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/arvanstorage.ir/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/arweave.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/arxiv.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/arzon.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/as/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/as-hp.ca/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/as.mr/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/asacp.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/asagaku.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/asahi.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -2615,6 +2619,7 @@ https://dns.alidns.com/dns-query
 [/asianxxxjoy.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/asianxxxvideos.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/asiaone.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/asiasociety.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/asiatgp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/asiatoday.us/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ask-sam.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -2656,6 +2661,7 @@ https://dns.alidns.com/dns-query
 [/assemblesystems.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/assesphoto.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/assets.bwbx.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/assets.nxtrace.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/assets1.xboxlive.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/assets2.xboxlive.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/assetsadobe.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -2987,6 +2993,7 @@ https://dns.alidns.com/dns-query
 [/avidemux.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/avinetworks.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/avinin.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/avistaz.to/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/avizoon.site/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/avizoone.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/avjb.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -3197,6 +3204,7 @@ https://dns.alidns.com/dns-query
 [/bach.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/backchina.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/backdoorlesbians.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/backend-v2.crixet.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/backoncourse.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/backpackers.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/backroomcastingcouch.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -3277,6 +3285,7 @@ https://dns.alidns.com/dns-query
 [/bangor-university-london.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bangor.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bangumi.moe/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/bangumi.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bangyoulater.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bangyourwife.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bankmobilevibe.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -3317,7 +3326,6 @@ https://dns.alidns.com/dns-query
 [/barton-peveril.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/barton.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/barton.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/bartvpn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bas.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/baselinestudy.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/baselinestudy.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -3372,6 +3380,7 @@ https://dns.alidns.com/dns-query
 [/bbc.in/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bbc.mp-pxcdn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bbc.net.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/bbc.pdn.tritondigital.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bbcchinese.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bbcfmt.hs.llnwd.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bbchat.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -3405,6 +3414,7 @@ https://dns.alidns.com/dns-query
 [/bbs.mikocon.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bbs.morbell.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bbs.mychat.to/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/bbs.naixi.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bbs.netbig.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bbs.nyinfor.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bbs.ozchinese.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -3814,6 +3824,7 @@ https://dns.alidns.com/dns-query
 [/bellebound.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bellerbys.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bellesa.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/bellingcat.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bellotube.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bellsouth.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bemix.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -3964,6 +3975,7 @@ https://dns.alidns.com/dns-query
 [/bftv.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bg/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bgc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/bgm.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bgme.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bgov.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bgr.in/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -3993,7 +4005,6 @@ https://dns.alidns.com/dns-query
 [/biaoqs2.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bible/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/biblesforamerica.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/bibliocommons.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bibliography.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bibox.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bic2011.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -4006,7 +4017,6 @@ https://dns.alidns.com/dns-query
 [/bidong9.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bidorbuyindia.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bids.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/bidswitch.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bidvestbank.co.za/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/biea.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/biedian.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -4168,7 +4178,6 @@ https://dns.alidns.com/dns-query
 [/bioware.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/biowarestore.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bioyork.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/bipic.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bips.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/biqle.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/biqle.ru/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -4196,6 +4205,7 @@ https://dns.alidns.com/dns-query
 [/bit.do/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bit.ly/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bit.no.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/bitbaby.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bitballoon.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bitbank.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bitbay.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -4229,6 +4239,7 @@ https://dns.alidns.com/dns-query
 [/bitstamp.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bitstream.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bitterwinter.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/bittorrent.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bittrex.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bitvise.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bitwarden.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -4275,6 +4286,7 @@ https://dns.alidns.com/dns-query
 [/blazor.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/blc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ble.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/bleepingcomputer.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/blend-ed.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/blender.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/blewpass.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -4318,7 +4330,6 @@ https://dns.alidns.com/dns-query
 [/blog.martinoei.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/blog.pathtosharepoint.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/blog.pentalogic.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/blog.qooza.hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/blog.ranxiang.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/blog.reimu.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/blog.sina.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -5004,6 +5015,7 @@ https://dns.alidns.com/dns-query
 [/booloo.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/boomba.club/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/boomerang.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/boomplay.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/boomssr.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/boomtrain.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/booru.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -5387,7 +5399,6 @@ https://dns.alidns.com/dns-query
 [/budaedu.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/budatt.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/buddhanet.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/buddhistchannel.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/buddymedia.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/bufdg.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/buffered.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -5432,7 +5443,6 @@ https://dns.alidns.com/dns-query
 [/business-i.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/business-intelligence.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/business.page/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/business.site/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/businessaccess.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/businesscatalyst.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/businesscove-blackcountry.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -6105,6 +6115,7 @@ https://dns.alidns.com/dns-query
 [/cdn-terapeak.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cdn.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cdn.angruo.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/cdn.arstechnica.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cdn.assets.lfpcontent.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cdn.helixstudios.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cdn.js7k.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -6170,7 +6181,6 @@ https://dns.alidns.com/dns-query
 [/celebsroulette.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/celeron.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/celeron.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/celestiallight.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/celestrak.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cell.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cellulo.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -6253,7 +6263,6 @@ https://dns.alidns.com/dns-query
 [/cfos.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cfr.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cfs.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/cfsh99.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cftfc.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cfwives.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cg/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -6277,7 +6286,6 @@ https://dns.alidns.com/dns-query
 [/changsa.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/channel4.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/channel5.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/channel8news.sg/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/channelnewsasia.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chanworld.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chaoex.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -6436,6 +6444,7 @@ https://dns.alidns.com/dns-query
 [/chid.com.mm/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chigroup.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chihair-straightener.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/chii.in/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chikiporn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chilbolton.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/childrenofthe90s.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -6554,6 +6563,7 @@ https://dns.alidns.com/dns-query
 [/chocotv.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/choicereviews.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chomp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/chonglangtv.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chopinonline.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chosun.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chrdnet.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -6585,7 +6595,6 @@ https://dns.alidns.com/dns-query
 [/chubold.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chubun.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chugd.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/chuizi.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chuls.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chuneo.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/chunja19.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -6602,6 +6611,7 @@ https://dns.alidns.com/dns-query
 [/ci-en.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ci-en.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cia.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/cia.gov/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cias.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ciattackers.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cib.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -6679,7 +6689,6 @@ https://dns.alidns.com/dns-query
 [/citizencn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/citizenlab.ca/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/citizenlab.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/citizenpowerforchina.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/citizenscommission.hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/citizensradio.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/citrixandautodesk.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -7331,6 +7340,7 @@ https://dns.alidns.com/dns-query
 [/cranfield.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/crankplayer.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/crash.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/crashlytics.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/crates.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/craven-college.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/crawley-college.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -7441,7 +7451,6 @@ https://dns.alidns.com/dns-query
 [/crunchyroll.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/crustwebsites.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cruxpool.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/crwdcntrl.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/crypto.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cryptocompare.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/cryptographyengineering.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -7496,6 +7505,7 @@ https://dns.alidns.com/dns-query
 [/ctg.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ctinets.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ctinews.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/ctinsider.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ctitv.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ctk.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ctkaquinas.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -7747,7 +7757,6 @@ https://dns.alidns.com/dns-query
 [/dalailama.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dalailama.mn/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dalailama.ru/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/dalailama.usc.edu/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dalailama80.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dalailamacenter.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dalailamafellows.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -7776,11 +7785,9 @@ https://dns.alidns.com/dns-query
 [/danmarkbeatsbydrdre.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/danskpornofilm.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dansmovies.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/danwei.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/daoc.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/daodu14.jigsy.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/daolan.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/daozhongxing.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/daresbury.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/daretoku-eromanga.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/darivoa.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -7828,10 +7835,10 @@ https://dns.alidns.com/dns-query
 [/data.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/data.flurry.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/data.gov.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/data18.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/databank.worldbank.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/datafuturesalphapilot.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/datagrid.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/datalabour.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dataliberation.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/datalore.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/datasheets360.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -7877,6 +7884,7 @@ https://dns.alidns.com/dns-query
 [/dcg.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dclk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dcmilitary.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/dcs-spotify.megaphone.fm/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dct.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dctbeatsbydre.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ddc.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -7999,7 +8007,6 @@ https://dns.alidns.com/dns-query
 [/dengeamerika.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dengiamerika.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/deno.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/deno.dev/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/deno.land/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dentalhypotheses.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dentalschoolscouncil.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -8526,6 +8533,7 @@ https://dns.alidns.com/dns-query
 [/dnp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dns-dns.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dns-stuff.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/dns.cloudflare.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dns.google/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dns.sb/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dns04.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -8554,7 +8562,6 @@ https://dns.alidns.com/dns-query
 [/dockerstatus.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/docleradn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/doclercdn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/docs.cfw.lbyczf.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/docs.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/docs.new/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/docs.rs/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -8578,6 +8585,7 @@ https://dns.alidns.com/dns-query
 [/dogofcum.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dogslife.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dogspics.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/doh.sb/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/doha/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/doi.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/doi.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -8631,12 +8639,12 @@ https://dns.alidns.com/dns-query
 [/doseofporn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dot-mac.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dot.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/dot.sb/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dotcernpilot.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dotdeb.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dotfacebook.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dotfacebook.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dotfreesex.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/dotgov.gov/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dotherex.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dothq.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dotmac.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -8678,6 +8686,7 @@ https://dns.alidns.com/dns-query
 [/download.aircrack-ng.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/download.cnet.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/download.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/download.dappcdn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/download.qatp1.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/download.qcpp1.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/download.qpdp1.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -8828,6 +8837,7 @@ https://dns.alidns.com/dns-query
 [/dswz88.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dsyiren.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dt-toolkit.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/dt18.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dtc-online.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dtci.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/dtci.technology/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -9427,6 +9437,7 @@ https://dns.alidns.com/dns-query
 [/edhcc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/edicypages.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/edifhe.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/edigest.hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/edina.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/edinburgh.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/edinburghcollege.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -9480,7 +9491,6 @@ https://dns.alidns.com/dns-query
 [/efficiencyexchange.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/efksoft.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/efproject.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/efreenews.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/efs.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/efuckt.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/efukt.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -9602,7 +9612,6 @@ https://dns.alidns.com/dns-query
 [/embl.it/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/embl.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/emblstatic.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/embr.in/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/embs.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/embs.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/emc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -9729,7 +9738,6 @@ https://dns.alidns.com/dns-query
 [/enterprisepaging.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/enterpriseresearch.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/enterprisessl.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/entnt.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/entrust.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/entrustdatacard.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/enveast.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -9804,7 +9812,6 @@ https://dns.alidns.com/dns-query
 [/epsrc-centre-lime.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/epsrc-cim-macromoleculartherapies.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/epsrc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/eq.ccu.edu.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/equal.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/equalityhigher.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/equator.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -10053,7 +10060,6 @@ https://dns.alidns.com/dns-query
 [/evalviewer.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/evanottyvideos.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/evchk.wikia.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/evchk.wikia.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/evemodels.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/even.stream/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/events.statsigapi.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -10142,7 +10148,6 @@ https://dns.alidns.com/dns-query
 [/extensionworkshop.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/extmatrix.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/extraasian.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/extrabux.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/extraindiansex.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/extrajapaneseporn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/extreme-board.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -10647,7 +10652,6 @@ https://dns.alidns.com/dns-query
 [/faststone.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fasttext.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fasttrackreadysupport.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/fatakat-n.club/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fatbtc.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fatstube.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fau11.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -10842,6 +10846,7 @@ https://dns.alidns.com/dns-query
 [/figprayer.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fileflyer.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fileforum.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/files.oaiusercontent.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/files2me.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fileserve.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/filesmonster.vip/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -10879,7 +10884,6 @@ https://dns.alidns.com/dns-query
 [/findacard.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/findasians.live/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/findbare.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/findbook.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/findcams.live/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/finder.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/findhername.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -10989,7 +10993,6 @@ https://dns.alidns.com/dns-query
 [/firstchancesfife.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/firstfivefollowers.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/firstgynexam.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/firstory.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/firstpelvicexam.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/firstpost.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/firstprivatebank.com.mm/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -11069,7 +11072,6 @@ https://dns.alidns.com/dns-query
 [/fluidfxapp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fluidpreview.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fluids.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/flurry.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/flutter.dev/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/flutterapp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/flyflv.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -11120,7 +11122,6 @@ https://dns.alidns.com/dns-query
 [/fonts.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fontshop.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fontsinuse.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/fontsource.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/food/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/foodchain.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/foodsecurity.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -11131,7 +11132,6 @@ https://dns.alidns.com/dns-query
 [/footseen.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/footstockings.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/footwear-cadcam.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/footwiball.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/forbes.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/forbesimg.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/forbiddenasian.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -11446,10 +11446,9 @@ https://dns.alidns.com/dns-query
 [/freeddns.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freeddns.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freedirecttvspecial.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/freedl.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/freedom.gov/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freedomchina.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freedomcollection.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/freedomhongkong.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freedomhouse.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freedominfonetweb.wordpress.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freedomplatform.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -11505,7 +11504,6 @@ https://dns.alidns.com/dns-query
 [/freepornpreview.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freepornq.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freepornvideos.life/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/freeproxylists.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freerk.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freescotcoll.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freesexalbum.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -11519,6 +11517,7 @@ https://dns.alidns.com/dns-query
 [/freessh.us/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freessl.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freetcp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/freeterabox.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freetibet.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freetibet.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/freetibetanheroes.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -11674,7 +11673,6 @@ https://dns.alidns.com/dns-query
 [/fulltaboo.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fullxxxmovies.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fulue.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/funami.tech/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fundaiphone5s.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fundfire.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/fundinginstitutional.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -11758,9 +11756,9 @@ https://dns.alidns.com/dns-query
 [/g-tun.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/g-tvapp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/g-xxxhub.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/g.ai/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/g.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/g.dev/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/g.kfd.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/g.page/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/g0v.social/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/g1d1goob.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -11815,7 +11813,6 @@ https://dns.alidns.com/dns-query
 [/gameuxmasterguide.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gamez.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gaming-notebooks.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/gamme.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gamousa.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gandhara.ru/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gandi.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12014,6 +12011,7 @@ https://dns.alidns.com/dns-query
 [/gemini.google.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gen.lib.rus.ec/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gen2.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/gencraft.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gendai.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/generated.photos/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/generationpup.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12125,6 +12123,7 @@ https://dns.alidns.com/dns-query
 [/gettyimages.no/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gettyimages.pt/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gettyimages.se/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/gettyimages.us/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/getuploader.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/getws1.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/getwsone.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12148,6 +12147,7 @@ https://dns.alidns.com/dns-query
 [/gfw.press/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gfw.report/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gfwatch.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/gfwbao.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gfwlist.end/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gfwlist.start/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gfx.ms/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12163,7 +12163,6 @@ https://dns.alidns.com/dns-query
 [/ggsrv.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ggssl.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gh/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/ghanely.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ghcr.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ghettotube.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ghidra-sre.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12240,7 +12239,6 @@ https://dns.alidns.com/dns-query
 [/githubassets.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/githubcopilot.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/githubhackathon.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/githubmemory.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/githubnext.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/githubpreview.dev/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/githubstatus.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12250,7 +12248,6 @@ https://dns.alidns.com/dns-query
 [/gitlab.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gitlab.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gitlab.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/gitmemory.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gitstar.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gitstar.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gittigidiyor.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12294,6 +12291,7 @@ https://dns.alidns.com/dns-query
 [/glhl.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gllm.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/global-sci.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/global.bing.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/global.market.xiaomi.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/global.ssl.fastly.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/globalbanking.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12366,6 +12364,7 @@ https://dns.alidns.com/dns-query
 [/gmcg.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gmcyberfoundry.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gmgard.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/gmgn.ai/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gmhigher.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gmhz.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gmiddle.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12404,7 +12403,6 @@ https://dns.alidns.com/dns-query
 [/go.dev/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/go.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/go.nesnode.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/go.sony.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/go141.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/go2av.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/go4uni.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12475,7 +12473,6 @@ https://dns.alidns.com/dns-query
 [/goldteenporn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/goldvip.cyou/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/goldwave.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/goliathguitartutorials.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/golos-ameriki.ru/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/golosameriki.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gongkou-cc.sbs/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12576,7 +12573,6 @@ https://dns.alidns.com/dns-query
 [/google.com.af/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.ag/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.ai/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.ao/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.ar/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.au/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.bd/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12584,11 +12580,8 @@ https://dns.alidns.com/dns-query
 [/google.com.bn/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.bo/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.br/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.bw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.bz/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.ck/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.cr/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.cu/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.cy/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.do/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12600,31 +12593,20 @@ https://dns.alidns.com/dns-query
 [/google.com.gi/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.gt/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.id/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.il/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.in/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.it/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.jm/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.ke/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.kh/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.kr/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.kw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.lb/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.ls/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.ly/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.ma/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.mm/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.mt/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.mx/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.my/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.mz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.na/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.nf/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.ng/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.ni/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.np/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.nz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.om/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.pa/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.pe/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12639,23 +12621,13 @@ https://dns.alidns.com/dns-query
 [/google.com.sg/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.sl/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.sv/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.th/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.tj/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.tr/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.tz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.ua/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.ug/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.uy/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.uz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.vc/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.ve/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.vi/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.com.vn/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.za/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.zm/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/google.com.zw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.cv/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.cz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/google.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12756,7 +12728,6 @@ https://dns.alidns.com/dns-query
 [/googleadservices.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/googleanalytics.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/googleapis-cn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/googleapis.cn/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/googleapis.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/googleapps-cn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/googleapps.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -12985,6 +12956,7 @@ https://dns.alidns.com/dns-query
 [/grimsbytec.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/grindr.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/grok.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/grokipedia.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/grooby.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/grotty-monday.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ground.news/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -13011,7 +12983,6 @@ https://dns.alidns.com/dns-query
 [/gsrc.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gssw.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gstatic-cn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/gstatic.cn/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gstatic.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gsuite.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/gt/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -13247,7 +13218,6 @@ https://dns.alidns.com/dns-query
 [/haskellstack.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hastings.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hastingsonline.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/hatena.ne.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hath.network/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hau.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hautelook.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -13344,7 +13314,6 @@ https://dns.alidns.com/dns-query
 [/hdruk.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hdsex.pro/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hdsexxx.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/hdsky.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hdtube.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hdtube1.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hdtvb.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -13451,6 +13420,7 @@ https://dns.alidns.com/dns-query
 [/hellporno.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hellven.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/heloa.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/help.byspotify.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/help.linksalpha.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/helpeachpeople.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/helplinfen.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -13458,6 +13428,7 @@ https://dns.alidns.com/dns-query
 [/helpster.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/helpuyghursnow.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/helpzhuling.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/hembed.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hendon.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/henley-cov.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/henley.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -13788,6 +13759,7 @@ https://dns.alidns.com/dns-query
 [/hitomi.la/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hitun.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hitxhot.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/hive.blog/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hiveon.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hiwifi.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hizb-ut-tahrir.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -13796,7 +13768,6 @@ https://dns.alidns.com/dns-query
 [/hjb246.top/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hjb7e9.top/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hjclub.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/hjd2048.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hjholdings.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hk-pub.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -14042,7 +14013,6 @@ https://dns.alidns.com/dns-query
 [/hotbed.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hotcandyland.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hotcoin.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/hotcool.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hotcuckoldwife.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hotcumporn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/hotels.cn/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -14479,7 +14449,6 @@ https://dns.alidns.com/dns-query
 [/humanmind.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/humanparty.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/humanrights-lse.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/humanrightsbriefing.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/humanrightspressawards.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/humber.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/humbermaritimecollege.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -14497,6 +14466,7 @@ https://dns.alidns.com/dns-query
 [/huntingdon.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/huobi.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/huobi.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/huobi.li/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/huobi.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/huobi.pro/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/huobi.sc/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -14568,6 +14538,7 @@ https://dns.alidns.com/dns-query
 [/i-o-u.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/i-part.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/i-scmp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/i.111666.best/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/i.jeded.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/i.lithium.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/i.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -14648,7 +14619,6 @@ https://dns.alidns.com/dns-query
 [/iceporncasting.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/icerocket.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/icevirtuallibrary.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/icfcdn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ichat.co.in/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ichigocandy.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ichineseporn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -14717,8 +14687,8 @@ https://dns.alidns.com/dns-query
 [/id.heroku.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/idaiwan.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/idarkdoll.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/idcflare.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/idcore.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/iddddg.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/idea-server.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ideal-teens.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/idealse.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -14798,7 +14768,6 @@ https://dns.alidns.com/dns-query
 [/iesr.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ietf.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/iexchange.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/if.ttt/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ifan.cz.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ifanqiang.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ifastcapital.com.my/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -15034,6 +15003,7 @@ https://dns.alidns.com/dns-query
 [/images-amazon.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/images-gaytube.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/images.comico.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/images.prismic.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/imageshack.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/imageshack.us/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/imagetwist.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -15055,6 +15025,7 @@ https://dns.alidns.com/dns-query
 [/imet.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/img.dlsite.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/img.ly/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/img.picgo.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/imgasd.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/imgbb.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/imgchili.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -15154,7 +15125,6 @@ https://dns.alidns.com/dns-query
 [/indienudes.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/indies-av.co.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/indonesiaporn.name/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/indsr.org.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/industrialtoys.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/inews-api.tvb.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/inf.news/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -15172,6 +15142,7 @@ https://dns.alidns.com/dns-query
 [/informer.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/informs.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/infosciscotland.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/infosec.exchange/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/infotimes.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/infowars.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/infowarsmedia.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -15550,7 +15521,6 @@ https://dns.alidns.com/dns-query
 [/ioz.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ip.gs/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ip.sb/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/ip138.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ip73.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ipa-iphone.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ipad.co.kr/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -15580,6 +15550,7 @@ https://dns.alidns.com/dns-query
 [/ipfire.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ipforesightforum.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ipfs-gateway.cloud/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/ipfs.4everland.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ipfs.anonymize.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ipfs.best-practice.se/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ipfs.eternum.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -15646,7 +15617,6 @@ https://dns.alidns.com/dns-query
 [/ipi.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ipicture.ru/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ipify.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/ipinfo.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ipjetable.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ipleadership.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ipleak.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -15790,6 +15760,7 @@ https://dns.alidns.com/dns-query
 [/issitedownrightnow.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/issquaredown.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/issquareup.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/issues.chromium.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/issuu.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ist/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/istar.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -16005,7 +15976,6 @@ https://dns.alidns.com/dns-query
 [/jav321.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jav4you.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jav68.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/jav777.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jav789.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jav889.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jav9999.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -16019,7 +15989,6 @@ https://dns.alidns.com/dns-query
 [/javbobo.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/javbooks.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/javbraze.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/javbus.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/javbus.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/javbus22.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/javbuz.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -16143,7 +16112,6 @@ https://dns.alidns.com/dns-query
 [/javxxx.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/javynow.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/javzoo.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/javzz.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jayspov.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jb.gg/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jb22.lol/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -16209,6 +16177,7 @@ https://dns.alidns.com/dns-query
 [/jga-group.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jgg18.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jgoodies.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/jhelab.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jhxl.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jhzyw.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/jiangweiping.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -16571,6 +16540,7 @@ https://dns.alidns.com/dns-query
 [/kastatic.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/kat.cr/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/katestube.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/kathmandupost.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/kavkazr.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/kawaiikawaii.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/kawase.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -16629,7 +16599,6 @@ https://dns.alidns.com/dns-query
 [/keontech.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/kepard.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/kernel.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/keso.cn/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/kess2.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/kew.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/kex.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -16825,7 +16794,6 @@ https://dns.alidns.com/dns-query
 [/kopfhorergunstigshop.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/koranmandarin.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/korbit.co.kr/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/korea.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/koreanpornmovie.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/korenan2.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/korewaeroi.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -17018,7 +16986,6 @@ https://dns.alidns.com/dns-query
 [/latelinenews.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/latencytop.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/latex-project.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/latibet.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/latinaabuse.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/latintubeporn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/latticedata.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -17185,6 +17152,7 @@ https://dns.alidns.com/dns-query
 [/lenkino.xxx/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/lenporno.red/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/lenwhite.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/leonardo.ai/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/leorockwell.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/leos-scot.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/lepoint.fr/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -17299,7 +17267,6 @@ https://dns.alidns.com/dns-query
 [/licenseparser.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/lichfield.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/lidc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/lidecheng.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/lidl/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/lido-dtp.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/life-global.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -17669,7 +17636,6 @@ https://dns.alidns.com/dns-query
 [/looporn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/looti.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/lordofultima.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/lorenzetti.com.br/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/loreto.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/lostbetsgames.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/lotcrap.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -17681,6 +17647,7 @@ https://dns.alidns.com/dns-query
 [/lou.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/loucoll.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/loughborough.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/lovart.ai/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/love-sextoys.co.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/love4porn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/love6.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -17775,6 +17742,7 @@ https://dns.alidns.com/dns-query
 [/lstonline.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/lsxszzg.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/lt/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/lt.sntp.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ltcc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ltea.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ltegroup.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -17879,7 +17847,6 @@ https://dns.alidns.com/dns-query
 [/m5ir5np1.shop/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/m5servicedesk.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/m5universities.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/m8008.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ma/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ma1lib.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/maa.plus/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -18197,6 +18164,7 @@ https://dns.alidns.com/dns-query
 [/maryvale.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/maryward.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/marywardcentre.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/mas.to/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/masalabin.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/masaladesi.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/masalaseen.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -18374,6 +18342,7 @@ https://dns.alidns.com/dns-query
 [/maturewomenanal.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/maturexxxvideos.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mau.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/maven.neoforged.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/maven.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/max.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/maxgo.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -18514,6 +18483,7 @@ https://dns.alidns.com/dns-query
 [/mediafire.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mediafreakcity.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mediahub.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/mediamatters.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/median.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mediasama.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mediawiki.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -18532,6 +18502,7 @@ https://dns.alidns.com/dns-query
 [/medschools.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/medway.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/medwayacl.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/meee.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/meendo.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/meet.new/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/meetandfuck.games/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -18567,12 +18538,10 @@ https://dns.alidns.com/dns-query
 [/meijinsen.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/meilleurpornos.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/meirion-dwyfor.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/meirixiaochao.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/meitula.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/meizhong.blog/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/meizhong.report/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/melon.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/melon365.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/melonbooks.co.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/melonstube.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/meltoday.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -18638,7 +18607,6 @@ https://dns.alidns.com/dns-query
 [/metacafe.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/metacloud.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/metacpan.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/metacubex.one/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/metadac.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/metafilter.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/metalpha.finance/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -19249,6 +19217,7 @@ https://dns.alidns.com/dns-query
 [/mji.rip/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mjib.gov.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mjj.rip/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/mjj.today/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mjlsh.usc.cuhk.edu.hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mjv-art.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -19500,9 +19469,7 @@ https://dns.alidns.com/dns-query
 [/moodyz.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/moon.fm/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/moonbbs.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/moonbbs.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/moonbingo.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/mooo.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/moorlands.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/moov.hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/moozporn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -19535,9 +19502,9 @@ https://dns.alidns.com/dns-query
 [/mortein.com.pk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/morteincam.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mos.ru/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/mosavi.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mostly.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mostpopularpornsites.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/mosucloud.site/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/motherless.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/motherwell.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/motiongraphicsandmore.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -19579,6 +19546,7 @@ https://dns.alidns.com/dns-query
 [/moxing.news/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/moystoys.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mozgcp.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/mozilla.ai/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mozilla.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mozilla.community/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mozilla.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -19586,7 +19554,6 @@ https://dns.alidns.com/dns-query
 [/moztw.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mp3buscador.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/mp3ye.eu/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mpa-mpp.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mpa-uk.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mpags.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -19681,7 +19648,6 @@ https://dns.alidns.com/dns-query
 [/msunlimitedcloudsummit.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mswe1.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mt/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/mt.co.kr/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mt.lv/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mt0011.site/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mtao.fun/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -19744,6 +19710,7 @@ https://dns.alidns.com/dns-query
 [/mushroomtrack.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mushymush.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/music-research.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/music.amazon.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/music.youtube.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/musicade.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/musical.ly/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -19853,7 +19820,6 @@ https://dns.alidns.com/dns-query
 [/myconstructionworld.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mycould.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mydad.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/mydati.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/myddns.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mydirectgroove.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/mydirectvchannels.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -19915,7 +19881,6 @@ https://dns.alidns.com/dns-query
 [/myhulu.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/myicloud.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/myiphide.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/myiphider.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/myipod.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/myjkwd.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/myjs.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -20064,7 +20029,6 @@ https://dns.alidns.com/dns-query
 [/naijauncut.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nailedhard.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/naitik.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/naixi.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/naizitv.top/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nakadashi.to/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/naked-asian-porn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -20326,11 +20290,12 @@ https://dns.alidns.com/dns-query
 [/nentindo.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/neo-miracle.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/neodaas.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/neoforged.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/neodb.social/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/neonatalsociety.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/neotokyo.supertop-100.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/neow.in/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/neowin.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/nephobox.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nepusoku.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nerap.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nerc-arsf.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -20517,13 +20482,13 @@ https://dns.alidns.com/dns-query
 [/newphd.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newport.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newpppp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/newrelic.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newroutephd.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/news.cnyes.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/news.co.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/news.com.au/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/news.ebc.net.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/news.msn.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/news.mt.co.kr/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/news.nationalgeographic.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/news.net.au/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/news.omy.sg/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -20560,6 +20525,7 @@ https://dns.alidns.com/dns-query
 [/newsfeed.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newsfilm.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newsgawakaru.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/newshub.co.nz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newslicensing.co.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newsmagazine.asia/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newsmart.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -20575,6 +20541,7 @@ https://dns.alidns.com/dns-query
 [/newstapa.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newstarnet.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newstatesman.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/newstimes.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newsukadops.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newsupermariobrosu.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/newsweek.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -20645,6 +20612,7 @@ https://dns.alidns.com/dns-query
 [/nflxvideo.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nfo.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nfsc.global/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/nfsc.press/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nfscdict.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nfscofficial.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nfsworld.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -20877,6 +20845,7 @@ https://dns.alidns.com/dns-query
 [/nikke-jp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nikke-kr.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nikke-sea.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/nikke.hotcool.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nikkei-cnbc.co.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nikkei.co.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nikkei.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -21140,7 +21109,6 @@ https://dns.alidns.com/dns-query
 [/nptcgroup.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nptsibinbank.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nr/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/nr-data.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nra/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nradio.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nrc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -21151,7 +21119,6 @@ https://dns.alidns.com/dns-query
 [/nrp.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nrs.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nrw/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/ns.ci/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ns01.biz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ns01.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ns01.us/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -21460,7 +21427,6 @@ https://dns.alidns.com/dns-query
 [/nybooks.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nyc/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nydus.ca/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/nyinfor.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nylon-angel.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nylonstockingsonline.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/nym97.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -21606,9 +21572,11 @@ https://dns.alidns.com/dns-query
 [/okaapps.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/okayfreedom.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/okazudouga.tokyo/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/okcoin.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/okex.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/okk.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/okkisokuho.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/oklink.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/okpool.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/okx-dns.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/okx-dns1.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -21683,11 +21651,10 @@ https://dns.alidns.com/dns-query
 [/onapp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/onbeatsbydresale.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/oncars.in/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/one.one/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/one.one.one/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/one.one.one.one/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/one889.app/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/oneapi.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/oneclient.sfx.ms/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/onedinesfree.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/onedrive.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/onedrive.co.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -21709,8 +21676,6 @@ https://dns.alidns.com/dns-query
 [/oneocsp.microsoft.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/onepornlist.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/onesiterip.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/onesto.re/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/onestore.co.kr/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/onestore.ms/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/oneteamconference.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/onetrust.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -21777,6 +21742,7 @@ https://dns.alidns.com/dns-query
 [/oocdtp.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ood.opsource.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/oojj.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/ooni.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ooni.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/oopsforum.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ootbstudio.co.kr/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -21796,9 +21762,9 @@ https://dns.alidns.com/dns-query
 [/openapiplatform.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/openapiservice.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/openart.ai/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/openbase.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/opencollective.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/opencreate.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/opencritic.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/opendemocracy.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/opendn.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/opendroneid.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -21929,6 +21895,7 @@ https://dns.alidns.com/dns-query
 [/osiri-suki-club.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/osl.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/osm.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/osmand.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/osmfoundation.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/osmosis.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ospray.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -21980,6 +21947,7 @@ https://dns.alidns.com/dns-query
 [/overapple.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/overcast.fm/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/overdaily.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/overdrive.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/overleaf.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/overplay.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/oversea.istarshine.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -22064,7 +22032,6 @@ https://dns.alidns.com/dns-query
 [/pads.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/paerosnen.club/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/page.link/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/page.tl/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/page2rss.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/page3.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pagecdn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -22165,6 +22132,7 @@ https://dns.alidns.com/dns-query
 [/particlephysics.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/partmaker.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/partneriaethaberbangor.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/partnerstack.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/partycasino.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/partylikeits1986.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/partypoker.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -22404,6 +22372,7 @@ https://dns.alidns.com/dns-query
 [/pdproxy.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pds.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pds.nasa.gov/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/pdst.fm/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pdxbmw.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pe/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/peace.ca/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -22491,7 +22460,6 @@ https://dns.alidns.com/dns-query
 [/pelvicexam.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pembrokeshire.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pembs.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/pems.dot.ca.gov/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pemulihan.or.id/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pen.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/penchinese.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -22499,6 +22467,7 @@ https://dns.alidns.com/dns-query
 [/pencoed.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pendcoll.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pendrivelinux.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/penguin.com.au/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pengwerncollege.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pengyulong.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/peninsula.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -22533,7 +22502,6 @@ https://dns.alidns.com/dns-query
 [/perfectsexnow.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/perfectshemales.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/perfecttitspics.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/perfectvpn.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/performancescience.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/periscope.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/perl.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -22562,7 +22530,6 @@ https://dns.alidns.com/dns-query
 [/petroc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pewresearch.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pf/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/pfd.org.hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pg/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pggc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pgreen.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -22598,12 +22565,10 @@ https://dns.alidns.com/dns-query
 [/photonics.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/photonicssociety.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/photonmedia.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/photos.live.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/photos18.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/photoshop.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/php.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/phprcdn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/phptutorial.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/phr.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/phun.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/phuquocservices.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -22627,7 +22592,6 @@ https://dns.alidns.com/dns-query
 [/picasaweb.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/picasaweb.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/picasaweb.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/picgo.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pichunter.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/picidae.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/picjs.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -22891,6 +22855,7 @@ https://dns.alidns.com/dns-query
 [/podcast.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/podictionary.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/podium.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/podwise.ai/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/poe.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/poecdn.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pogo.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -23493,7 +23458,6 @@ https://dns.alidns.com/dns-query
 [/prioned.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/prism-break.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/prism.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/prismic.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/prismlauncher.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/prismlive.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/prisoneralert.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -23547,6 +23511,7 @@ https://dns.alidns.com/dns-query
 [/projectvoyeur.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/promonsterbeatsbydre.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/promotingpartnership.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/prompthero.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/proms.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pron.guru/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/propagandastudies.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -23556,7 +23521,6 @@ https://dns.alidns.com/dns-query
 [/proptiger.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/proquest.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pros.ee/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/prosciana.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/prosiben.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/prospects.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/prostate-exam-info.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -23582,8 +23546,6 @@ https://dns.alidns.com/dns-query
 [/proxomics.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/proxomitron.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/proxpn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/proxy.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/proxy1.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/proxyadult.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/proxyanonimo.es/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/proxydns.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -23651,7 +23613,6 @@ https://dns.alidns.com/dns-query
 [/pubmatic.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pubu.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pubu.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/puffin.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/puffinbrowser.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/puffstore.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pugetsoundbmw.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -23659,6 +23620,7 @@ https://dns.alidns.com/dns-query
 [/pugpig-dev.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pugpig-stage.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pugpig.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/pullfolio.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pullfolio.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pullstring.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/pulsebrowser.app/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -23950,10 +23912,12 @@ https://dns.alidns.com/dns-query
 [/radiko.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/radio-canada.ca/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/radio-en-ligne.fr/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/radio.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/radio.garden/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/radioaustralia.net.au/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/radiofarda.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/radiohilight.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/radiojar.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/radioline.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/radiomango.fm/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/radiomarsho.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -24000,6 +23964,7 @@ https://dns.alidns.com/dns-query
 [/rapbull.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rapefilms.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rapetube.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/raphael.app/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rapid.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rapidgator.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rapidmoviez.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -24044,6 +24009,7 @@ https://dns.alidns.com/dns-query
 [/raw.githack.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rawgit.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rawgithub.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/rawstory.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/raxcdn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/razer.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/razerofficial.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -24224,6 +24190,7 @@ https://dns.alidns.com/dns-query
 [/recoiljs.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/reconinstruments.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/reconjet.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/recordedfuture.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/recordhistory.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/recordingachievement.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/recovery.org.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -24312,7 +24279,6 @@ https://dns.alidns.com/dns-query
 [/reid-kerr.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/reidkerr.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/reigate.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/reimu.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/reiporno.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/relateinstitute.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/relateiq.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -24487,7 +24453,6 @@ https://dns.alidns.com/dns-query
 [/rjgsp1.buzz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rk.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rl.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/rlcdn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rlczdo.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rlg.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rln.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -24514,6 +24479,7 @@ https://dns.alidns.com/dns-query
 [/ro89.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/road-crew.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/roadshow.hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/roblox.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/robobat.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/roboforex.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/roborecall.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -24523,7 +24489,6 @@ https://dns.alidns.com/dns-query
 [/rocket-inc.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rocket.chat/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rocketbbs.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/rocketcdn.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rocketfishproducts.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rockettube.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rocksdb.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -24569,7 +24534,6 @@ https://dns.alidns.com/dns-query
 [/rothervalley.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rotten.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rou.video/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/roucdn.link/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/roudao6.buzz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/roudaosp.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/roughebonysex.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -24659,6 +24623,8 @@ https://dns.alidns.com/dns-query
 [/rti.org.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rti.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rtings.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/rtm.tnt-ea.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/rts.ch/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rtycminnesota.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ru/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ru-moscow-1.myhuaweicloud.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -24679,6 +24645,7 @@ https://dns.alidns.com/dns-query
 [/rukor.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rul.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rulaisc-tv.buzz/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/rule34.us/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rule34.world/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rule34.xxx/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/rule34.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -24749,6 +24716,7 @@ https://dns.alidns.com/dns-query
 [/s1s1s1.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/s2csntp.miz.nao.ac.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/s2stagehance.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/s3-ap-northeast-1.amazonaws.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/s3-ap-southeast-1.amazonaws.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/s3-ap-southeast-2.amazonaws.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/s3.amazonaws.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -24942,6 +24910,7 @@ https://dns.alidns.com/dns-query
 [/sbs/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sbs.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sbs.com.au/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/sbti.unun.dev/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sbu.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sbusinesslondon.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sbux.com.my/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -25154,7 +25123,6 @@ https://dns.alidns.com/dns-query
 [/seancody.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/seaofsolitude.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/seaporn.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/seapuff.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/search.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/search.aol.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/search.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -25284,7 +25252,6 @@ https://dns.alidns.com/dns-query
 [/serveusers.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/services-apple.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/services-exchange.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/services.googleapis.cn/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/serviceshp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/servicetalk.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/serviporno.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -25539,8 +25506,6 @@ https://dns.alidns.com/dns-query
 [/sgspt.buzz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sgsss.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sgul.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/sgwritings.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/sgzhan.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sh/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sh-xuxingda.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sh83.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -25556,7 +25521,6 @@ https://dns.alidns.com/dns-query
 [/shadowsocks.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shadowsocks.com.hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shadowsocks.nl/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/shadowsocks.nu/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shadowsocks.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shadowsocks9.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shadowverse.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -25669,7 +25633,6 @@ https://dns.alidns.com/dns-query
 [/shields.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shikorina.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shiksha.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/shiksha.ws/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shinhangmc.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shinychan.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shipcamouflage.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -25682,6 +25645,7 @@ https://dns.alidns.com/dns-query
 [/shitaotv.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shithd.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shitjav.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/shitjournal.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shittytube.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shixiao.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/shizhao.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -25787,6 +25751,7 @@ https://dns.alidns.com/dns-query
 [/side.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sidelinesnews.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sidelinessportseatery.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/sider.ai/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sie.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/siege-amazon.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sierrafriendsoftibet.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -25820,6 +25785,7 @@ https://dns.alidns.com/dns-query
 [/simg.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/simgbb.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/simian.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/simianx.ai/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/similar-porn.fun/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/simility.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/simonsgirls.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -25924,7 +25890,6 @@ https://dns.alidns.com/dns-query
 [/sjhsp1.buzz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sjr.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sjrt.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/sjum.cn/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skate2.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skebetter.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -25940,7 +25905,6 @@ https://dns.alidns.com/dns-query
 [/skillsgroupuk.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skillshare.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skillswestyorks.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/skimresources.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skimtube.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skinstrip.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skk.moe/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -25951,7 +25915,6 @@ https://dns.alidns.com/dns-query
 [/sky.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skyassets.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skybet.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/skydrive.wns.windows.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skyking.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skykiwi.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skymansion.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -25977,7 +25940,6 @@ https://dns.alidns.com/dns-query
 [/skyvegas.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/skyxvpn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sl/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/sl-reverse.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sl99mod.buzz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/slack-core.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/slack-edge.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -26036,7 +25998,6 @@ https://dns.alidns.com/dns-query
 [/sm/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sm-miracle.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sm.ms/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/sm3ha.ru/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sma.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/small-angle.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/smallteenpussy.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -26122,7 +26083,6 @@ https://dns.alidns.com/dns-query
 [/snowcorp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/snowlionpub.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/snowmiku.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/sntp.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/snug.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/so/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/so-net.ne.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -26352,6 +26312,7 @@ https://dns.alidns.com/dns-query
 [/sothebys-institute.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/soton.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sots.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/sotwe.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sou-tong.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/soubory.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/souka.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -26512,7 +26473,6 @@ https://dns.alidns.com/dns-query
 [/splint-cetl.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/spokenword.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sponichi.co.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/spoprod-a.akamaihd.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/spore.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sports.williamhill.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sportsfacebook.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -26618,7 +26578,6 @@ https://dns.alidns.com/dns-query
 [/sslpaypal.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ssmh.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sspanel.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/sspanel.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sspc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sspf.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ssphr.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -26791,10 +26750,10 @@ https://dns.alidns.com/dns-query
 [/static-verizon.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/static.comico.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/static.fun/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/static.pocketcasts.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/static.shemalez.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/static01.nyt.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/static9.net.au/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/statically.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/staticflickr.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/statistics.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/statsmakemecry.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -26829,23 +26788,17 @@ https://dns.alidns.com/dns-query
 [/steam.eca.qtlglb.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steam.naeu.qtlglb.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steam.ru.qtlglb.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/steambroadcast.akamaized.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/steamcommunity-a.akamaihd.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steamcontent.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steamdb.info/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steamdeck.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steamgames.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/steamladder.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steamofporn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/steampipe.akamaized.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steampowered.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steamserver.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/steamstat.us/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steamstatic.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/steamstore-a.akamaihd.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steamunlocked.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/steamusercontent-a.akamaihd.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steamusercontent.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/steamuserimages-a.akamaihd.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steamygamer.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/stec.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/steel-storm.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -26920,8 +26873,6 @@ https://dns.alidns.com/dns-query
 [/stonyhurst.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/stoporganharvesting.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/stoptibetcrisis.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/storage.live.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/storage.msn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/storage.yandex.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/storagenewsletter.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/storcuram.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -26960,7 +26911,6 @@ https://dns.alidns.com/dns-query
 [/stream-mydirtyhobby.biz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/streamable.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/streamate.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/streamguys1.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/streamhentaimovies.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/streaming.mediaservices.windows.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/streamingdisney.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -27054,7 +27004,6 @@ https://dns.alidns.com/dns-query
 [/stupidcams.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/stupidvideos.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/stvincent.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/stweetly.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/stxmosquito.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/stxmosquitoproject.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/stxmosquitoproject.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -27217,7 +27166,6 @@ https://dns.alidns.com/dns-query
 [/suttoncollege.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/suxib.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/suxiebu.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/suyangg.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/sv/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/svaboda.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/svc.ms/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -27404,6 +27352,7 @@ https://dns.alidns.com/dns-query
 [/taiav.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tail-f.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tailf.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/tails.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tailscale.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tailscale.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tailwindtraders.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -27539,7 +27488,6 @@ https://dns.alidns.com/dns-query
 [/tbtemple.org.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tbthouston.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tc/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tc39.es/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tcat.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tcch.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tccr.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -27579,6 +27527,7 @@ https://dns.alidns.com/dns-query
 [/tec.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tech2.in.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/techatbloomberg.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/techbang.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/techcrunch.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/techextra.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/techhub.ms/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -27628,7 +27577,6 @@ https://dns.alidns.com/dns-query
 [/teensnow.link/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/teentube.pro/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/teenwebcamtube.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/teepr.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tees.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/teeslearn.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/teesside.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -27749,7 +27697,6 @@ https://dns.alidns.com/dns-query
 [/tg-me.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tg.dev/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tgac.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tgfcer.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tgirlcentral.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tgirlpostop.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tgp6.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -27785,6 +27732,7 @@ https://dns.alidns.com/dns-query
 [/the-japan-news.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/the-m-festival.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/the-monster-beats.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/the-sun.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/the-tls.co.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/the123d.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/theaffairs.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -27915,7 +27863,6 @@ https://dns.alidns.com/dns-query
 [/theopportunityproject.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thepaypalshop.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thepervs.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/thepiratebay.ee/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thepiratebay.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/theplatform.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/theporn.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -27955,7 +27902,6 @@ https://dns.alidns.com/dns-query
 [/thesims4.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thesimssocial.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/theskillsco.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/thespeeder.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thestandard.com.hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thestandnews.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thestationbymaker.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -27981,6 +27927,7 @@ https://dns.alidns.com/dns-query
 [/theverge.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thevirtualsexreview.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thevivekspot.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/theweek.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/theweek.in/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thewgo.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thewirechina.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -27992,6 +27939,7 @@ https://dns.alidns.com/dns-query
 [/thieme-connect.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thieme.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thinkboxsoftware.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/thinkchina.sg/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thinkdifferent.us/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thinkgeek.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thinkhigher.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -28049,7 +27997,6 @@ https://dns.alidns.com/dns-query
 [/thrixxx.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/throughnightsfire.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thtmod1.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/thu.monster/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thuhole.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thumbnailseries.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/thumbzilla.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -28082,7 +28029,6 @@ https://dns.alidns.com/dns-query
 [/tibet-envoy.eu/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tibet-foundation.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tibet-house-trust.co.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tibet-info.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tibet-initiative.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tibet-munich.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tibet.a.se/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -28377,6 +28323,7 @@ https://dns.alidns.com/dns-query
 [/topxxxpornvids.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/topyoungporn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tor.blingblingsquad.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/tor.eff.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tor.updatestar.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tora.to/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/toray/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -28504,7 +28451,6 @@ https://dns.alidns.com/dns-query
 [/travelexch.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/travelexmoneycard.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/travelgirls.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/travelinkcard.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/trc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/treemall.com.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/trello.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -28555,8 +28501,6 @@ https://dns.alidns.com/dns-query
 [/truedepth3d.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/truedwg.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/truefi.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/truenas.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/truesocial.media/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/trulyergonomic.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/trunest.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/truro-penwith.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -28727,17 +28671,6 @@ https://dns.alidns.com/dns-query
 [/tunnelblick.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tunnelr.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tunsafe.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tuo8.blue/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tuo8.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tuo8.club/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tuo8.fit/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tuo8.hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tuo8.in/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tuo8.ninja/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tuo8.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tuo8.pw/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tuo8.red/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/tuo8.space/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/turansam.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/turbobit.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/turbogvideos.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -28774,6 +28707,7 @@ https://dns.alidns.com/dns-query
 [/tvbusa.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tvbweekly.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tvc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/tvdy1.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tver.co.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tver.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/tvfix.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -28839,6 +28773,7 @@ https://dns.alidns.com/dns-query
 [/twenty65.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/twerkingbutt.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/twftp.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/twgov.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/twgreatdaily.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/twgreatnews.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/twhentai.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -29218,6 +29153,7 @@ https://dns.alidns.com/dns-query
 [/ultrayoungsex.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ulyssesapp.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/umagazine.com.hk/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/umap.openstreetmap.fr/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/umass.edu/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/umds.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/umich.edu/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -29318,7 +29254,6 @@ https://dns.alidns.com/dns-query
 [/unknownspace.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/unkoscene.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/unl.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/unlock-music.dev/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/unlocklimitlesslearning.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/unlocktool.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/unmineable.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -29345,6 +29280,7 @@ https://dns.alidns.com/dns-query
 [/uol.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uos.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uoutside.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/up.audio/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/up.gcp.googlers.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/up01.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/upa.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -29375,6 +29311,7 @@ https://dns.alidns.com/dns-query
 [/upornia.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uporno.xxx/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uproxy.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/upsangel.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uptodown.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/upwill.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/upwork.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -29414,9 +29351,7 @@ https://dns.alidns.com/dns-query
 [/uscg.mil/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uscnpm.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/use-of-mans.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/use.fontawesome.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/use.typekit.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/usefreevpn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uselessjunk.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/usembassy.gov/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/useplannr.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -29432,7 +29367,6 @@ https://dns.alidns.com/dns-query
 [/ushare.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ushaw.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ushuarencity.echainhost.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/usinfo.state.gov/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/usma.edu/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/usmc.mil/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/usmgtcg.ning.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -29445,7 +29379,6 @@ https://dns.alidns.com/dns-query
 [/ustc.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ustibetcommittee.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ustream.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/usunitednews.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/usus.cc/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/usvimosquito.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/usvimosquitoproject.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -29510,9 +29443,7 @@ https://dns.alidns.com/dns-query
 [/uyghuramerican.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uyghurbiz.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uyghurcanadian.ca/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/uyghurcanadiansociety.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uyghurcongress.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/uyghurensemble.co.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uyghurpen.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uyghurpress.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/uyghurstudies.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -29525,12 +29456,11 @@ https://dns.alidns.com/dns-query
 [/v-has.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/v-resort.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/v.gd/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/v.roucdn/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/v2.help/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/v2.hysteria.network/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/v2ex.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/v2ex.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/v2fly.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/v2mm.tech/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/v2ph.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/v2ray.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/v2ray.cool/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -29635,6 +29565,7 @@ https://dns.alidns.com/dns-query
 [/ve/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/vecchiescopate.casa/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/vector.im/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/veed.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/veet.at/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/veet.be/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/veet.ca/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -30445,7 +30376,6 @@ https://dns.alidns.com/dns-query
 [/vpejey.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/vpl.bibliocommons.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/vpn.ac/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/vpn.cjb.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/vpn.cmu.edu/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/vpn.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/vpn.sv.cmu.edu/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -30542,7 +30472,6 @@ https://dns.alidns.com/dns-query
 [/vuvuzela.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/vxnbbrs.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/vxxsred.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/vyprvpn.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/vzw.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/w-mt.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/w-pool.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -30586,11 +30515,13 @@ https://dns.alidns.com/dns-query
 [/walker.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wallet.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/walletconnect.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/walletconnect.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wallmama.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wallornot.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wallpapercasa.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wallproxy.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wallsttv.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/wallzhihu.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/walmart-content.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/walmart.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/walmart.pharmacy/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -30763,7 +30694,6 @@ https://dns.alidns.com/dns-query
 [/webofscience.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/webpa.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/webpack.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/webpass.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/webpkgcache.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/webrtc.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/webrush.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -30789,6 +30719,7 @@ https://dns.alidns.com/dns-query
 [/wegamedeveloper.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wego.here.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/weiboleak.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/weights.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/weihuo.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/weijingsheng.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/weimi180.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -31002,11 +30933,9 @@ https://dns.alidns.com/dns-query
 [/wikaba.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wikawika.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wiki.cnitter.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/wiki.esu.im/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wiki.gamerp.jp/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wiki.jqueryui.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wiki.keso.cn/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/wiki.kfd.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wiki.metacubex.one/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wiki.moegirl.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wiki.oauth.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -31039,6 +30968,7 @@ https://dns.alidns.com/dns-query
 [/wikipedia.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wikiporn.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wikiquote.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/wikis.tw/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wikisexguide.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wikisource.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wikiunblocked.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -31120,6 +31050,7 @@ https://dns.alidns.com/dns-query
 [/wiserd.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wisevid.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wish.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/wispbyte.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wistia.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/wistia.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/witcmi.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -31253,7 +31184,6 @@ https://dns.alidns.com/dns-query
 [/worldjournal.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/worldofslaves.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/worldofwarcraft.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/worldpopulationreview.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/worldpornvideos.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/worldscientific.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/worldsecureemail.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -31370,6 +31300,7 @@ https://dns.alidns.com/dns-query
 [/www.aolnews.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.apple.com.edgekey.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.businessinsider.com.au/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/www.clashverge.dev/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.cmoinc.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.destinationurl.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.dmm.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -31378,6 +31309,7 @@ https://dns.alidns.com/dns-query
 [/www.gmiddle.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.gmiddle.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.googleadapis.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/www.hoyolab.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.hustlercash.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.idlcoyote.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.imdb.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -31409,6 +31341,7 @@ https://dns.alidns.com/dns-query
 [/www.wan-press.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.wangruowang.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.websnapr.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/www.xicons.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www.zensur.freerk.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www1.american.edu/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/www1.biz/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -31528,6 +31461,7 @@ https://dns.alidns.com/dns-query
 [/xcafe.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xcafe.in/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xcams.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/xcancel.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xcg123.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xchina.co/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xchina.fun/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -31602,7 +31536,6 @@ https://dns.alidns.com/dns-query
 [/xiaoshuobb.life/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xiaoyaoge.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xiaxiaoqiang.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/xicons.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xie56.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xiezhua.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xihua.es/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -31663,6 +31596,7 @@ https://dns.alidns.com/dns-query
 [/xmoviesforyou.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xn--096-4g6em5t.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xn--11xs86f.icu/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/xn--1jqvh729avzfcy2d8ummib.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xn--201-4g6em5t.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xn--202-4g6em5t.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xn--203-4g6em5t.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -31707,6 +31641,7 @@ https://dns.alidns.com/dns-query
 [/xn--hhr917d3fecva.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xn--hxtr4rozx.xn--czr694b/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xn--i2ru8q2qg.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/xn--kcrv3utim32hx9f6qe.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xn--kput3imi374g.xn--hxt814e/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xn--m1abbbgjah.lol/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/xn--mts47c3w9b1qr.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -32288,6 +32223,7 @@ https://dns.alidns.com/dns-query
 [/yeyuehuachao11.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/yeyuehuachao12.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/yeyuehuachao13.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/yfsp.tv/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/yft-mv.sbs/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ygto.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/ygugu4.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -32367,6 +32303,7 @@ https://dns.alidns.com/dns-query
 [/youjizz.sex/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/youlucky.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/youmaker.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/youmind.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/young-amateur-movies.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/young-webcam.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/young-xxx.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -32780,6 +32717,7 @@ https://dns.alidns.com/dns-query
 [/zenmate.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zenmate.com.ru/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zenodo.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/zensur.freerk.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zeplerinstitute.ac.uk/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zeplin.dev/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zeplin.io/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -32807,6 +32745,7 @@ https://dns.alidns.com/dns-query
 [/zhangboli.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zhangboz1.xyz/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zhangtianliang.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
+[/zhangzhehan.net/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zhanlve.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zhao.1984.city/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zhao.jinhai.de/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -32831,7 +32770,6 @@ https://dns.alidns.com/dns-query
 [/zhuanxing.cn/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zhuatieba.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zhuichaguoji.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/zhujiget.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zhuzhushipin-app.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zi.media/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zi5.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
@@ -32921,7 +32859,6 @@ https://dns.alidns.com/dns-query
 [/zozotown.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zpn.im/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zqqpwz.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
-[/zsdxzk.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zsh.org/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zspeeder.me/]https://dns.google/dns-query https://1.1.1.1/dns-query
 [/zsrhao.com/]https://dns.google/dns-query https://1.1.1.1/dns-query
