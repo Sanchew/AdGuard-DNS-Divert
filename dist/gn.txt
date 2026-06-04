@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-06-03 10:52:22
+# 自动生成于 2026-06-04 10:47:29
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -63,7 +63,7 @@ https://1.1.1.1/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 113087 个域名，逐条规则）
+# 国内域名规则（共 113088 个域名，逐条规则）
 # 已排除 27 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/0.xn--czrs0t/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -62575,6 +62575,7 @@ https://1.1.1.1/dns-query
 [/live.todaydunhuang.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/live.tvbaoji.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/live.ugratv.cdnvideo.ru/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
+[/live.ybtvyun.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/live.zhihuizq.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/live.zscz0768.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/live02.rfi.fr/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
