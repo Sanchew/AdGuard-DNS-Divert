@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-06-19 11:27:16
+# 自动生成于 2026-06-20 10:32:58
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32832 个域名，逐条规则）
+# 国外域名规则（共 32835 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -850,6 +850,7 @@ https://dns.alidns.com/dns-query
 [/account-paypal.net/]127.0.0.1:7874
 [/account-paypal.org/]127.0.0.1:7874
 [/accountancylearning.ac.uk/]127.0.0.1:7874
+[/accountboy.com/]127.0.0.1:7874
 [/accountkit.com/]127.0.0.1:7874
 [/accountpaypal.com/]127.0.0.1:7874
 [/accountpaypal.net/]127.0.0.1:7874
@@ -19472,6 +19473,7 @@ https://dns.alidns.com/dns-query
 [/moodleshare-hw.ac.uk/]127.0.0.1:7874
 [/moodstocks.com/]127.0.0.1:7874
 [/moodyz.com/]127.0.0.1:7874
+[/moomoo.com/]127.0.0.1:7874
 [/moon.fm/]127.0.0.1:7874
 [/moonbbs.com/]127.0.0.1:7874
 [/moonbingo.com/]127.0.0.1:7874
@@ -31672,6 +31674,7 @@ https://dns.alidns.com/dns-query
 [/xn--ubt498knmf.com/]127.0.0.1:7874
 [/xn--uis17aj9kmuf.com/]127.0.0.1:7874
 [/xn--urs05q.jp/]127.0.0.1:7874
+[/xn--vuqv2cf7wzyig79c.com/]127.0.0.1:7874
 [/xn--x-qeu1ji09tzlg.biz/]127.0.0.1:7874
 [/xn--x-qeu1ji09tzlg.net/]127.0.0.1:7874
 [/xn--xsq421m.com/]127.0.0.1:7874
