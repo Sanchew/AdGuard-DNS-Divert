@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-06-20 10:32:58
+# 自动生成于 2026-06-21 10:48:37
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32835 个域名，逐条规则）
+# 国外域名规则（共 32915 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -212,6 +212,7 @@ https://dns.alidns.com/dns-query
 [/18insta.com/]127.0.0.1:7874
 [/18j.tv/]127.0.0.1:7874
 [/18jms.com/]127.0.0.1:7874
+[/18mh.net/]127.0.0.1:7874
 [/18novel.xyz/]127.0.0.1:7874
 [/18onlygirls.com/]127.0.0.1:7874
 [/18p2p.com/]127.0.0.1:7874
@@ -698,6 +699,7 @@ https://dns.alidns.com/dns-query
 [/9nation.com.au/]127.0.0.1:7874
 [/9news.com.au/]127.0.0.1:7874
 [/9now.com.au/]127.0.0.1:7874
+[/9oju31.launches.appsflyersdk.com/]127.0.0.1:7874
 [/9tak-nav.buzz/]127.0.0.1:7874
 [/9to5google.com/]127.0.0.1:7874
 [/9to5mac.com/]127.0.0.1:7874
@@ -2016,14 +2018,18 @@ https://dns.alidns.com/dns-query
 [/apexprint.com.hk/]127.0.0.1:7874
 [/aphe.ac.uk/]127.0.0.1:7874
 [/api-extractor.com/]127.0.0.1:7874
+[/api-gl.lbkrs.com/]127.0.0.1:7874
 [/api-p.videomarket.jp/]127.0.0.1:7874
 [/api-secure.recaptcha.net/]127.0.0.1:7874
 [/api-verify.recaptcha.net/]127.0.0.1:7874
 [/api.ai/]127.0.0.1:7874
+[/api.futunn.com/]127.0.0.1:7874
 [/api.githubcopilot.com/]127.0.0.1:7874
 [/api.groq.com/]127.0.0.1:7874
+[/api.lbkrs.com/]127.0.0.1:7874
 [/api.linksalpha.com/]127.0.0.1:7874
 [/api.mixpanel.com/]127.0.0.1:7874
+[/api.moomoobull.com/]127.0.0.1:7874
 [/api.nebula-emby.com/]127.0.0.1:7874
 [/api.news/]127.0.0.1:7874
 [/api.palworldgame.com/]127.0.0.1:7874
@@ -2034,6 +2040,7 @@ https://dns.alidns.com/dns-query
 [/api.together.xyz/]127.0.0.1:7874
 [/api.viu.now.com/]127.0.0.1:7874
 [/api.waqi.info/]127.0.0.1:7874
+[/api5.futunn.com/]127.0.0.1:7874
 [/apiary.io/]127.0.0.1:7874
 [/apibay.org/]127.0.0.1:7874
 [/apidocs.linksalpha.com/]127.0.0.1:7874
@@ -4087,6 +4094,7 @@ https://dns.alidns.com/dns-query
 [/bili888.com/]127.0.0.1:7874
 [/bili999.com/]127.0.0.1:7874
 [/biliintl.com/]127.0.0.1:7874
+[/bilinovel.com/]127.0.0.1:7874
 [/biliplus.com/]127.0.0.1:7874
 [/biliworld.com/]127.0.0.1:7874
 [/bilk.ac.uk/]127.0.0.1:7874
@@ -6123,6 +6131,7 @@ https://dns.alidns.com/dns-query
 [/cdn.angruo.com/]127.0.0.1:7874
 [/cdn.arstechnica.net/]127.0.0.1:7874
 [/cdn.assets.lfpcontent.com/]127.0.0.1:7874
+[/cdn.futustatic.com/]127.0.0.1:7874
 [/cdn.helixstudios.net/]127.0.0.1:7874
 [/cdn.js7k.com/]127.0.0.1:7874
 [/cdn.jwplayer.com/]127.0.0.1:7874
@@ -6272,6 +6281,7 @@ https://dns.alidns.com/dns-query
 [/cftfc.com/]127.0.0.1:7874
 [/cfwives.com/]127.0.0.1:7874
 [/cg/]127.0.0.1:7874
+[/cg.play-analytics.com/]127.0.0.1:7874
 [/cgdepot.org/]127.0.0.1:7874
 [/cgh.ac.uk/]127.0.0.1:7874
 [/cgkate.jinvod.com/]127.0.0.1:7874
@@ -8693,6 +8703,7 @@ https://dns.alidns.com/dns-query
 [/download.cnet.com/]127.0.0.1:7874
 [/download.com/]127.0.0.1:7874
 [/download.dappcdn.com/]127.0.0.1:7874
+[/download.futunn.com/]127.0.0.1:7874
 [/download.qatp1.net/]127.0.0.1:7874
 [/download.qcpp1.net/]127.0.0.1:7874
 [/download.qpdp1.net/]127.0.0.1:7874
@@ -11719,7 +11730,33 @@ https://dns.alidns.com/dns-query
 [/futanarihq.com/]127.0.0.1:7874
 [/futhead.com/]127.0.0.1:7874
 [/futpromos.com/]127.0.0.1:7874
+[/futu.cn/]127.0.0.1:7874
+[/futu.com/]127.0.0.1:7874
+[/futu.link/]127.0.0.1:7874
+[/futu0.com/]127.0.0.1:7874
+[/futu1.com/]127.0.0.1:7874
+[/futu2.com/]127.0.0.1:7874
+[/futu3.com/]127.0.0.1:7874
+[/futu4.com/]127.0.0.1:7874
+[/futu5.com/]127.0.0.1:7874
+[/futu6.com/]127.0.0.1:7874
+[/futu7.com/]127.0.0.1:7874
+[/futu8.com/]127.0.0.1:7874
+[/futu9.com/]127.0.0.1:7874
+[/futuau.com/]127.0.0.1:7874
+[/futubull.cn/]127.0.0.1:7874
+[/futuchain.com/]127.0.0.1:7874
+[/futuesop.com/]127.0.0.1:7874
+[/futufin.com/]127.0.0.1:7874
+[/futuhk.com/]127.0.0.1:7874
+[/futuhk2.com/]127.0.0.1:7874
+[/futuhkapp.com/]127.0.0.1:7874
+[/futuhn.com/]127.0.0.1:7874
+[/futuholdings.com/]127.0.0.1:7874
+[/futuinc.com/]127.0.0.1:7874
 [/futunited.com/]127.0.0.1:7874
+[/futuniuniu.com/]127.0.0.1:7874
+[/futunn.com/]127.0.0.1:7874
 [/future-media.ac.uk/]127.0.0.1:7874
 [/future-reserves-research.ac.uk/]127.0.0.1:7874
 [/futurearmedforces.ac.uk/]127.0.0.1:7874
@@ -11735,6 +11772,9 @@ https://dns.alidns.com/dns-query
 [/futuretrack.ac.uk/]127.0.0.1:7874
 [/futurevehicles.ac.uk/]127.0.0.1:7874
 [/futureworks.ac.uk/]127.0.0.1:7874
+[/futustatic.com/]127.0.0.1:7874
+[/fututrade.com/]127.0.0.1:7874
+[/fututrustee.com/]127.0.0.1:7874
 [/fux.com/]127.0.0.1:7874
 [/fuxporn.com/]127.0.0.1:7874
 [/fuyin.net/]127.0.0.1:7874
@@ -15805,6 +15845,7 @@ https://dns.alidns.com/dns-query
 [/ithelp.ithome.com.tw/]127.0.0.1:7874
 [/ithome.com.tw/]127.0.0.1:7874
 [/itiger.com/]127.0.0.1:7874
+[/itigerup.com/]127.0.0.1:7874
 [/itlearningspace-scot.ac.uk/]127.0.0.1:7874
 [/itnel.com/]127.0.0.1:7874
 [/itnow.ac.uk/]127.0.0.1:7874
@@ -16969,6 +17010,7 @@ https://dns.alidns.com/dns-query
 [/laod.cn/]127.0.0.1:7874
 [/laogai.org/]127.0.0.1:7874
 [/laogairesearch.org/]127.0.0.1:7874
+[/laohu8.com/]127.0.0.1:7874
 [/laomiu.com/]127.0.0.1:7874
 [/laosijifuli9009.top/]127.0.0.1:7874
 [/laowang.vip/]127.0.0.1:7874
@@ -17014,7 +17056,9 @@ https://dns.alidns.com/dns-query
 [/lbank.info/]127.0.0.1:7874
 [/lbc-northwood.ac.uk/]127.0.0.1:7874
 [/lbc.ac.uk/]127.0.0.1:7874
+[/lbctrl.com/]127.0.0.1:7874
 [/lbfmaddiction.com/]127.0.0.1:7874
+[/lbkrs.com/]127.0.0.1:7874
 [/lboro.ac.uk/]127.0.0.1:7874
 [/lborolondon.ac.uk/]127.0.0.1:7874
 [/lbpresearch.ac.uk/]127.0.0.1:7874
@@ -17614,9 +17658,12 @@ https://dns.alidns.com/dns-query
 [/londonstudiocentre.ac.uk/]127.0.0.1:7874
 [/lonestarnaughtygirls.com/]127.0.0.1:7874
 [/longbridge.cloud/]127.0.0.1:7874
+[/longbridge.com/]127.0.0.1:7874
 [/longbridge.global/]127.0.0.1:7874
 [/longbridge.hk/]127.0.0.1:7874
 [/longbridge.sg/]127.0.0.1:7874
+[/longbridgeapp.com/]127.0.0.1:7874
+[/longbridgehk.com/]127.0.0.1:7874
 [/longeaton.ac.uk/]127.0.0.1:7874
 [/longhair.hk/]127.0.0.1:7874
 [/longley-park.ac.uk/]127.0.0.1:7874
@@ -17627,6 +17674,7 @@ https://dns.alidns.com/dns-query
 [/longleyparksixthformcollege.ac.uk/]127.0.0.1:7874
 [/longman.ch/]127.0.0.1:7874
 [/longmusic.com/]127.0.0.1:7874
+[/longportapp.cn/]127.0.0.1:7874
 [/longportapp.com/]127.0.0.1:7874
 [/longroad.ac.uk/]127.0.0.1:7874
 [/longtailvideo.com/]127.0.0.1:7874
@@ -19474,6 +19522,8 @@ https://dns.alidns.com/dns-query
 [/moodstocks.com/]127.0.0.1:7874
 [/moodyz.com/]127.0.0.1:7874
 [/moomoo.com/]127.0.0.1:7874
+[/moomooequity.com/]127.0.0.1:7874
+[/moomootrustee.com/]127.0.0.1:7874
 [/moon.fm/]127.0.0.1:7874
 [/moonbbs.com/]127.0.0.1:7874
 [/moonbingo.com/]127.0.0.1:7874
@@ -21766,6 +21816,13 @@ https://dns.alidns.com/dns-query
 [/openaiapi-site.azureedge.net/]127.0.0.1:7874
 [/openallweb.com/]127.0.0.1:7874
 [/openamt.com/]127.0.0.1:7874
+[/openapi-quote.longbridge.cn/]127.0.0.1:7874
+[/openapi-quote.longbridge.com/]127.0.0.1:7874
+[/openapi-trade.longbridge.cn/]127.0.0.1:7874
+[/openapi-trade.longbridge.com/]127.0.0.1:7874
+[/openapi.futunn.com/]127.0.0.1:7874
+[/openapi.longbridge.cn/]127.0.0.1:7874
+[/openapi.longbridge.com/]127.0.0.1:7874
 [/openapiplatform.com/]127.0.0.1:7874
 [/openapiservice.com/]127.0.0.1:7874
 [/openart.ai/]127.0.0.1:7874
@@ -23798,6 +23855,8 @@ https://dns.alidns.com/dns-query
 [/qstatus.com/]127.0.0.1:7874
 [/qt-project.org/]127.0.0.1:7874
 [/qt.io/]127.0.0.1:7874
+[/qtcard.futunn.com/]127.0.0.1:7874
+[/qtcardfthk.futufin.com/]127.0.0.1:7874
 [/qtel/]127.0.0.1:7874
 [/qtrac.eu/]127.0.0.1:7874
 [/qtweeter.com/]127.0.0.1:7874
@@ -23871,6 +23930,7 @@ https://dns.alidns.com/dns-query
 [/quora.com/]127.0.0.1:7874
 [/quoracdn.net/]127.0.0.1:7874
 [/quotable.com/]127.0.0.1:7874
+[/quote.longbridge.global/]127.0.0.1:7874
 [/quovadisglobal.com/]127.0.0.1:7874
 [/quran.com/]127.0.0.1:7874
 [/quranexplorer.com/]127.0.0.1:7874
@@ -24988,6 +25048,10 @@ https://dns.alidns.com/dns-query
 [/schome.ac.uk/]127.0.0.1:7874
 [/schoms.ac.uk/]127.0.0.1:7874
 [/school-economic-science.ac.uk/]127.0.0.1:7874
+[/schwab.co.uk/]127.0.0.1:7874
+[/schwab.com/]127.0.0.1:7874
+[/schwab.com.cn/]127.0.0.1:7874
+[/schwab.com.hk/]127.0.0.1:7874
 [/sci-hub.it.nf/]127.0.0.1:7874
 [/sci-hub.mksa.top/]127.0.0.1:7874
 [/sci-hub.se/]127.0.0.1:7874
@@ -25507,6 +25571,7 @@ https://dns.alidns.com/dns-query
 [/sgp1.fun/]127.0.0.1:7874
 [/sgpe.ac.uk/]127.0.0.1:7874
 [/sgpstatp.com/]127.0.0.1:7874
+[/sgqt0j.launches.appsflyersdk.com/]127.0.0.1:7874
 [/sgsah.ac.uk/]127.0.0.1:7874
 [/sgscol.ac.uk/]127.0.0.1:7874
 [/sgspe.de/]127.0.0.1:7874
@@ -25711,6 +25776,7 @@ https://dns.alidns.com/dns-query
 [/shops-disney.com/]127.0.0.1:7874
 [/shopspeedtv.com/]127.0.0.1:7874
 [/shoptraivip.com/]127.0.0.1:7874
+[/shortconn.im.qcloud.com/]127.0.0.1:7874
 [/shorturl.at/]127.0.0.1:7874
 [/shotgridsoftware.com/]127.0.0.1:7874
 [/shotgridstudio.com/]127.0.0.1:7874
@@ -27118,6 +27184,7 @@ https://dns.alidns.com/dns-query
 [/suppig.net/]127.0.0.1:7874
 [/supply-chain.ac.uk/]127.0.0.1:7874
 [/supplybestjerseys.com/]127.0.0.1:7874
+[/support.futunn.com/]127.0.0.1:7874
 [/supportfacebook.com/]127.0.0.1:7874
 [/supremacy.com/]127.0.0.1:7874
 [/supremacy.net/]127.0.0.1:7874
@@ -28130,6 +28197,12 @@ https://dns.alidns.com/dns-query
 [/tiendabestbuy.com/]127.0.0.1:7874
 [/tiffany-towers.com/]127.0.0.1:7874
 [/tig-ol-bitties.live/]127.0.0.1:7874
+[/tigerbbs.cn/]127.0.0.1:7874
+[/tigerbbs.com/]127.0.0.1:7874
+[/tigerbrokers.com/]127.0.0.1:7874
+[/tigerbrokers.net/]127.0.0.1:7874
+[/tigerbrokers.nz/]127.0.0.1:7874
+[/tigerfintech.com/]127.0.0.1:7874
 [/tigervpn.com/]127.0.0.1:7874
 [/tiipple.ac.uk/]127.0.0.1:7874
 [/tik-tokapi.com/]127.0.0.1:7874
@@ -28401,6 +28474,9 @@ https://dns.alidns.com/dns-query
 [/tracfone.com/]127.0.0.1:7874
 [/tracingnetworks.ac.uk/]127.0.0.1:7874
 [/tracking-location.com/]127.0.0.1:7874
+[/trade.futunn.com/]127.0.0.1:7874
+[/trade.longportapp.com/]127.0.0.1:7874
+[/tradeup.com/]127.0.0.1:7874
 [/tradevip1.com/]127.0.0.1:7874
 [/tradingview.com/]127.0.0.1:7874
 [/traffcoll.ac.uk/]127.0.0.1:7874
@@ -30627,6 +30703,7 @@ https://dns.alidns.com/dns-query
 [/wballiance.com/]127.0.0.1:7874
 [/wbd.ms/]127.0.0.1:7874
 [/wbdnbo.net/]127.0.0.1:7874
+[/wbrks.com/]127.0.0.1:7874
 [/wbs.ac.uk/]127.0.0.1:7874
 [/wbvm4s.com/]127.0.0.1:7874
 [/wcc.ac.uk/]127.0.0.1:7874
@@ -31538,6 +31615,7 @@ https://dns.alidns.com/dns-query
 [/xiaofu.me/]127.0.0.1:7874
 [/xiaogirls.com/]127.0.0.1:7874
 [/xiaohexie.com/]127.0.0.1:7874
+[/xiaohu8.com/]127.0.0.1:7874
 [/xiaolan.me/]127.0.0.1:7874
 [/xiaoma.org/]127.0.0.1:7874
 [/xiaomi.eu/]127.0.0.1:7874
@@ -32766,6 +32844,8 @@ https://dns.alidns.com/dns-query
 [/zhenlibu.info/]127.0.0.1:7874
 [/zhenlibu1984.com/]127.0.0.1:7874
 [/zhenxiang.biz/]127.0.0.1:7874
+[/zhijianfengyi.cn/]127.0.0.1:7874
+[/zhijianfengyi.com/]127.0.0.1:7874
 [/zhimeishe888.com/]127.0.0.1:7874
 [/zhinengluyou.com/]127.0.0.1:7874
 [/zhizhu.top/]127.0.0.1:7874
