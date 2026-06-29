@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-06-28 10:37:18
+# 自动生成于 2026-06-29 10:37:43
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32917 个域名，逐条规则）
+# 国外域名规则（共 32932 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -1300,6 +1300,7 @@ https://dns.alidns.com/dns-query
 [/airtunes.com/]127.0.0.1:7874
 [/airtunes.info/]127.0.0.1:7874
 [/airtunes.net/]127.0.0.1:7874
+[/airuniversity.af.edu/]127.0.0.1:7874
 [/airvpn.org/]127.0.0.1:7874
 [/airwatchexpress.com/]127.0.0.1:7874
 [/airwatchqa.com/]127.0.0.1:7874
@@ -11900,6 +11901,7 @@ https://dns.alidns.com/dns-query
 [/gate-project.com/]127.0.0.1:7874
 [/gate.ac.uk/]127.0.0.1:7874
 [/gate.cc/]127.0.0.1:7874
+[/gate.com/]127.0.0.1:7874
 [/gate.io/]127.0.0.1:7874
 [/gatecoin.com/]127.0.0.1:7874
 [/gatedata.org/]127.0.0.1:7874
@@ -13883,6 +13885,7 @@ https://dns.alidns.com/dns-query
 [/hklft.com/]127.0.0.1:7874
 [/hklts.org.hk/]127.0.0.1:7874
 [/hkmap.live/]127.0.0.1:7874
+[/hkong.hk/]127.0.0.1:7874
 [/hkopentv.com/]127.0.0.1:7874
 [/hkpeanut.com/]127.0.0.1:7874
 [/hkporn.net/]127.0.0.1:7874
@@ -16662,6 +16665,7 @@ https://dns.alidns.com/dns-query
 [/keytransparency.foo/]127.0.0.1:7874
 [/keytransparency.org/]127.0.0.1:7874
 [/kfh/]127.0.0.1:7874
+[/kfor.com/]127.0.0.1:7874
 [/kfs.io/]127.0.0.1:7874
 [/kg/]127.0.0.1:7874
 [/kgslb.com/]127.0.0.1:7874
@@ -18718,6 +18722,7 @@ https://dns.alidns.com/dns-query
 [/mhs-relay.ac.uk/]127.0.0.1:7874
 [/mhs.ac.uk/]127.0.0.1:7874
 [/mhshosting.com/]127.0.0.1:7874
+[/mhwindow.org/]127.0.0.1:7874
 [/mi.kochudaho.me/]127.0.0.1:7874
 [/mi.mashiro.site/]127.0.0.1:7874
 [/mi.nakn.jp/]127.0.0.1:7874
@@ -22414,6 +22419,7 @@ https://dns.alidns.com/dns-query
 [/pcdvd.com.tw/]127.0.0.1:7874
 [/pcfe.ac.uk/]127.0.0.1:7874
 [/pcfeonline.ac.uk/]127.0.0.1:7874
+[/pcgamesn.com/]127.0.0.1:7874
 [/pcgamestorrents.com/]127.0.0.1:7874
 [/pchome.com.tw/]127.0.0.1:7874
 [/pchomeec.tw/]127.0.0.1:7874
@@ -22571,6 +22577,7 @@ https://dns.alidns.com/dns-query
 [/performancescience.ac.uk/]127.0.0.1:7874
 [/periscope.tv/]127.0.0.1:7874
 [/perl.org/]127.0.0.1:7874
+[/perma.cc/]127.0.0.1:7874
 [/perplexity.ai/]127.0.0.1:7874
 [/persagg.com/]127.0.0.1:7874
 [/persecutionblog.com/]127.0.0.1:7874
@@ -24410,6 +24417,7 @@ https://dns.alidns.com/dns-query
 [/resoubang.buzz/]127.0.0.1:7874
 [/resourceshare.ac.uk/]127.0.0.1:7874
 [/respawnbyrazer.com/]127.0.0.1:7874
+[/restofworld.org/]127.0.0.1:7874
 [/restore.ac.uk/]127.0.0.1:7874
 [/results.ac.uk/]127.0.0.1:7874
 [/rethink.net/]127.0.0.1:7874
@@ -26465,6 +26473,7 @@ https://dns.alidns.com/dns-query
 [/sp.cool/]127.0.0.1:7874
 [/spa.ac.uk/]127.0.0.1:7874
 [/spaceexplored.com/]127.0.0.1:7874
+[/spaceforce.mil/]127.0.0.1:7874
 [/spacely.com.au/]127.0.0.1:7874
 [/spacemail.com/]127.0.0.1:7874
 [/spaces.hightail.com/]127.0.0.1:7874
@@ -27190,6 +27199,7 @@ https://dns.alidns.com/dns-query
 [/supportfacebook.com/]127.0.0.1:7874
 [/supremacy.com/]127.0.0.1:7874
 [/supremacy.net/]127.0.0.1:7874
+[/supremecourt.gov/]127.0.0.1:7874
 [/suprememastertv.com/]127.0.0.1:7874
 [/sureporn.com/]127.0.0.1:7874
 [/surf.ac.uk/]127.0.0.1:7874
@@ -27908,6 +27918,7 @@ https://dns.alidns.com/dns-query
 [/theinitium.com/]127.0.0.1:7874
 [/theinstagramhack.com/]127.0.0.1:7874
 [/theintelstore.com/]127.0.0.1:7874
+[/theintercept.com/]127.0.0.1:7874
 [/theinternetlawschool.ac.uk/]127.0.0.1:7874
 [/theinventionworks.com/]127.0.0.1:7874
 [/theinventionworks.net/]127.0.0.1:7874
@@ -28579,6 +28590,7 @@ https://dns.alidns.com/dns-query
 [/trs.ac.uk/]127.0.0.1:7874
 [/trt.net.tr/]127.0.0.1:7874
 [/trtc.com.tw/]127.0.0.1:7874
+[/trtworld.com/]127.0.0.1:7874
 [/trueamateurmodels.com/]127.0.0.1:7874
 [/trueamateurs.com/]127.0.0.1:7874
 [/trueanal.com/]127.0.0.1:7874
@@ -28953,6 +28965,7 @@ https://dns.alidns.com/dns-query
 [/twporn.net/]127.0.0.1:7874
 [/twreporter.org/]127.0.0.1:7874
 [/twskype.com/]127.0.0.1:7874
+[/twstalker.com/]127.0.0.1:7874
 [/twstar.net/]127.0.0.1:7874
 [/twt.tl/]127.0.0.1:7874
 [/twtkr.com/]127.0.0.1:7874
@@ -30668,6 +30681,7 @@ https://dns.alidns.com/dns-query
 [/washeng.net/]127.0.0.1:7874
 [/washingtondcbmw.com/]127.0.0.1:7874
 [/washingtonpost.com/]127.0.0.1:7874
+[/washingtontimes.com/]127.0.0.1:7874
 [/waskucity.com/]127.0.0.1:7874
 [/wasmer.io/]127.0.0.1:7874
 [/watch-ebay.org/]127.0.0.1:7874
@@ -31850,6 +31864,7 @@ https://dns.alidns.com/dns-query
 [/xtubebdsm.com/]127.0.0.1:7874
 [/xtubezoo.com/]127.0.0.1:7874
 [/xu97.vip/]127.0.0.1:7874
+[/xuan.com.my/]127.0.0.1:7874
 [/xuchao.net/]127.0.0.1:7874
 [/xuchao.org/]127.0.0.1:7874
 [/xuehua.us/]127.0.0.1:7874
