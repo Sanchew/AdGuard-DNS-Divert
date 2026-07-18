@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-07-17 09:50:42
+# 自动生成于 2026-07-18 09:40:51
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -62,7 +62,7 @@
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 111805 个域名，逐条规则）
+# 国内域名规则（共 111806 个域名，逐条规则）
 # 已排除 27 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/0.xn--czrs0t/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -12666,6 +12666,7 @@
 [/api-m.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/api-vod-qcloud.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/api.anythinktech.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
+[/api.blipsandchitz.me/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/api.cnno1.uds.lenovo.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/api.djiservice.org/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/api.euwe1.uds.lenovo.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
