@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-07-25 09:50:49
+# 自动生成于 2026-07-26 09:54:10
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32938 个域名，逐条规则）
+# 国外域名规则（共 32940 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -6653,6 +6653,7 @@ https://dns.alidns.com/dns-query
 [/cios.org/]127.0.0.1:7874
 [/ciota.ac.uk/]127.0.0.1:7874
 [/cipfg.org/]127.0.0.1:7874
+[/circle19.org/]127.0.0.1:7874
 [/circlethebayfortibet.org/]127.0.0.1:7874
 [/cirencester.ac.uk/]127.0.0.1:7874
 [/cirius.ac.uk/]127.0.0.1:7874
@@ -16582,6 +16583,7 @@ https://dns.alidns.com/dns-query
 [/kaob3.xyz/]127.0.0.1:7874
 [/kaotic.com/]127.0.0.1:7874
 [/karayou.com/]127.0.0.1:7874
+[/kards.com/]127.0.0.1:7874
 [/karechat.ai/]127.0.0.1:7874
 [/karger.com/]127.0.0.1:7874
 [/karinahart.com/]127.0.0.1:7874
