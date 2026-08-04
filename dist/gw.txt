@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-08-03 09:56:00
+# 自动生成于 2026-08-04 09:42:18
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32943 个域名，逐条规则）
+# 国外域名规则（共 32940 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -6241,6 +6241,7 @@ https://dns.alidns.com/dns-query
 [/ceramics-cadcam.com/]127.0.0.1:7874
 [/cercia.ac.uk/]127.0.0.1:7874
 [/cerdas.com/]127.0.0.1:7874
+[/cerebras.ai/]127.0.0.1:7874
 [/ceredigion.ac.uk/]127.0.0.1:7874
 [/ceri.ac.uk/]127.0.0.1:7874
 [/cerlim.ac.uk/]127.0.0.1:7874
@@ -19614,7 +19615,6 @@ https://dns.alidns.com/dns-query
 [/moxing.news/]127.0.0.1:7874
 [/moystoys.com/]127.0.0.1:7874
 [/mozgcp.net/]127.0.0.1:7874
-[/mozilla.ai/]127.0.0.1:7874
 [/mozilla.com/]127.0.0.1:7874
 [/mozilla.community/]127.0.0.1:7874
 [/mozilla.net/]127.0.0.1:7874
@@ -23709,7 +23709,6 @@ https://dns.alidns.com/dns-query
 [/pure18.com/]127.0.0.1:7874
 [/pureapk.com/]127.0.0.1:7874
 [/pureconcepts.net/]127.0.0.1:7874
-[/puredns.org/]127.0.0.1:7874
 [/pureinsight.org/]127.0.0.1:7874
 [/purelov5.com/]127.0.0.1:7874
 [/purelyceleb.com/]127.0.0.1:7874
@@ -23998,7 +23997,6 @@ https://dns.alidns.com/dns-query
 [/radioaustralia.net.au/]127.0.0.1:7874
 [/radiofarda.com/]127.0.0.1:7874
 [/radiohilight.net/]127.0.0.1:7874
-[/radiojar.com/]127.0.0.1:7874
 [/radioline.co/]127.0.0.1:7874
 [/radiomango.fm/]127.0.0.1:7874
 [/radiomarsho.com/]127.0.0.1:7874
@@ -31413,7 +31411,6 @@ https://dns.alidns.com/dns-query
 [/www.aolnews.com/]127.0.0.1:7874
 [/www.apple.com.edgekey.net/]127.0.0.1:7874
 [/www.businessinsider.com.au/]127.0.0.1:7874
-[/www.clashverge.dev/]127.0.0.1:7874
 [/www.cmoinc.org/]127.0.0.1:7874
 [/www.destinationurl.com/]127.0.0.1:7874
 [/www.dmm.com/]127.0.0.1:7874
