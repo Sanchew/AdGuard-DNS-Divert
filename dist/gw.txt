@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-08-23 08:44:58
+# 自动生成于 2026-08-24 08:43:03
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32950 个域名，逐条规则）
+# 国外域名规则（共 32953 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -13809,6 +13809,7 @@ https://dns.alidns.com/dns-query
 [/historicbooks.ac.uk/]127.0.0.1:7874
 [/history-uk.ac.uk/]127.0.0.1:7874
 [/history.ac.uk/]127.0.0.1:7874
+[/historylines.net/]127.0.0.1:7874
 [/historyofdota.com/]127.0.0.1:7874
 [/historyofdota.net/]127.0.0.1:7874
 [/historyofdota.org/]127.0.0.1:7874
@@ -16801,6 +16802,7 @@ https://dns.alidns.com/dns-query
 [/kiwi/]127.0.0.1:7874
 [/kiwi.kz/]127.0.0.1:7874
 [/kiwibrowser.com/]127.0.0.1:7874
+[/kiwix.org/]127.0.0.1:7874
 [/kk-whys.co.jp/]127.0.0.1:7874
 [/kk.stream/]127.0.0.1:7874
 [/kkbox.com/]127.0.0.1:7874
@@ -18498,6 +18500,7 @@ https://dns.alidns.com/dns-query
 [/mcdonaldsarabia.com/]127.0.0.1:7874
 [/mcdonaldsparties.co.nz/]127.0.0.1:7874
 [/mcdonaldsparties.com.au/]127.0.0.1:7874
+[/mceindex.com/]127.0.0.1:7874
 [/mcfog.com/]127.0.0.1:7874
 [/mcisco.com/]127.0.0.1:7874
 [/mcls.ac.uk/]127.0.0.1:7874
