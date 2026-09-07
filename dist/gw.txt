@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-09-06 10:00:52
+# 自动生成于 2026-09-07 09:58:27
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32958 个域名，逐条规则）
+# 国外域名规则（共 32964 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -110,6 +110,8 @@ https://dns.alidns.com/dns-query
 [/119474.xyz/]127.0.0.1:7874
 [/11jav.com/]127.0.0.1:7874
 [/123-hp.com/]127.0.0.1:7874
+[/123av.com/]127.0.0.1:7874
+[/123av.me/]127.0.0.1:7874
 [/123bin.cc/]127.0.0.1:7874
 [/123dapp.com/]127.0.0.1:7874
 [/123dappipad.com/]127.0.0.1:7874
@@ -24580,6 +24582,7 @@ https://dns.alidns.com/dns-query
 [/roborecall.com/]127.0.0.1:7874
 [/robotoffice.com/]127.0.0.1:7874
 [/robustnessiskey.com/]127.0.0.1:7874
+[/roc-taiwan.org/]127.0.0.1:7874
 [/rochdalesfc.ac.uk/]127.0.0.1:7874
 [/rocket-inc.net/]127.0.0.1:7874
 [/rocket.chat/]127.0.0.1:7874
@@ -24634,6 +24637,7 @@ https://dns.alidns.com/dns-query
 [/roughebonysex.com/]127.0.0.1:7874
 [/roughman.net/]127.0.0.1:7874
 [/roundtable.ac.uk/]127.0.0.1:7874
+[/roushuwo.com/]127.0.0.1:7874
 [/routerboard.com/]127.0.0.1:7874
 [/routesintolanguages.ac.uk/]127.0.0.1:7874
 [/routledgehandbooks.com/]127.0.0.1:7874
@@ -27476,6 +27480,7 @@ https://dns.alidns.com/dns-query
 [/taiwancon.com/]127.0.0.1:7874
 [/taiwandaily.net/]127.0.0.1:7874
 [/taiwandc.org/]127.0.0.1:7874
+[/taiwanembassy.org/]127.0.0.1:7874
 [/taiwanhot.net/]127.0.0.1:7874
 [/taiwanjobs.gov.tw/]127.0.0.1:7874
 [/taiwanjustice.com/]127.0.0.1:7874
@@ -31382,6 +31387,7 @@ https://dns.alidns.com/dns-query
 [/wtc/]127.0.0.1:7874
 [/wtc.ac.uk/]127.0.0.1:7874
 [/wtf/]127.0.0.1:7874
+[/wtfpass.com/]127.0.0.1:7874
 [/wtfpeople.com/]127.0.0.1:7874
 [/wto.org/]127.0.0.1:7874
 [/wton-acl.ac.uk/]127.0.0.1:7874
