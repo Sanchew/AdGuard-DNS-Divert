@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-09-12 10:13:43
+# 自动生成于 2026-09-13 10:10:42
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32964 个域名，逐条规则）
+# 国外域名规则（共 32950 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -2022,15 +2022,12 @@ https://dns.alidns.com/dns-query
 [/apexprint.com.hk/]127.0.0.1:7874
 [/aphe.ac.uk/]127.0.0.1:7874
 [/api-extractor.com/]127.0.0.1:7874
-[/api-gl.lbkrs.com/]127.0.0.1:7874
 [/api-p.videomarket.jp/]127.0.0.1:7874
 [/api-secure.recaptcha.net/]127.0.0.1:7874
 [/api-verify.recaptcha.net/]127.0.0.1:7874
 [/api.ai/]127.0.0.1:7874
-[/api.futunn.com/]127.0.0.1:7874
 [/api.githubcopilot.com/]127.0.0.1:7874
 [/api.groq.com/]127.0.0.1:7874
-[/api.lbkrs.com/]127.0.0.1:7874
 [/api.linksalpha.com/]127.0.0.1:7874
 [/api.mixpanel.com/]127.0.0.1:7874
 [/api.moomoobull.com/]127.0.0.1:7874
@@ -2045,7 +2042,6 @@ https://dns.alidns.com/dns-query
 [/api.together.xyz/]127.0.0.1:7874
 [/api.viu.now.com/]127.0.0.1:7874
 [/api.waqi.info/]127.0.0.1:7874
-[/api5.futunn.com/]127.0.0.1:7874
 [/apiary.io/]127.0.0.1:7874
 [/apibay.org/]127.0.0.1:7874
 [/apidocs.linksalpha.com/]127.0.0.1:7874
@@ -6138,7 +6134,6 @@ https://dns.alidns.com/dns-query
 [/cdn.angruo.com/]127.0.0.1:7874
 [/cdn.arstechnica.net/]127.0.0.1:7874
 [/cdn.assets.lfpcontent.com/]127.0.0.1:7874
-[/cdn.futustatic.com/]127.0.0.1:7874
 [/cdn.helixstudios.net/]127.0.0.1:7874
 [/cdn.js7k.com/]127.0.0.1:7874
 [/cdn.jwplayer.com/]127.0.0.1:7874
@@ -8716,7 +8711,6 @@ https://dns.alidns.com/dns-query
 [/download.cnet.com/]127.0.0.1:7874
 [/download.com/]127.0.0.1:7874
 [/download.dappcdn.com/]127.0.0.1:7874
-[/download.futunn.com/]127.0.0.1:7874
 [/download.qatp1.net/]127.0.0.1:7874
 [/download.qcpp1.net/]127.0.0.1:7874
 [/download.qpdp1.net/]127.0.0.1:7874
@@ -21846,12 +21840,8 @@ https://dns.alidns.com/dns-query
 [/openallweb.com/]127.0.0.1:7874
 [/openamt.com/]127.0.0.1:7874
 [/openapi-quote.longbridge.cn/]127.0.0.1:7874
-[/openapi-quote.longbridge.com/]127.0.0.1:7874
 [/openapi-trade.longbridge.cn/]127.0.0.1:7874
-[/openapi-trade.longbridge.com/]127.0.0.1:7874
-[/openapi.futunn.com/]127.0.0.1:7874
 [/openapi.longbridge.cn/]127.0.0.1:7874
-[/openapi.longbridge.com/]127.0.0.1:7874
 [/openapiplatform.com/]127.0.0.1:7874
 [/openapiservice.com/]127.0.0.1:7874
 [/openart.ai/]127.0.0.1:7874
@@ -23885,14 +23875,13 @@ https://dns.alidns.com/dns-query
 [/qstatus.com/]127.0.0.1:7874
 [/qt-project.org/]127.0.0.1:7874
 [/qt.io/]127.0.0.1:7874
-[/qtcard.futunn.com/]127.0.0.1:7874
-[/qtcardfthk.futufin.com/]127.0.0.1:7874
 [/qtel/]127.0.0.1:7874
 [/qtrac.eu/]127.0.0.1:7874
 [/qtweeter.com/]127.0.0.1:7874
 [/quadram.ac.uk/]127.0.0.1:7874
 [/quadraminstitute.ac.uk/]127.0.0.1:7874
 [/quadrat.ac.uk/]127.0.0.1:7874
+[/quakemachinex.com/]127.0.0.1:7874
 [/qualcomm-email.com/]127.0.0.1:7874
 [/qualcomm.co.id/]127.0.0.1:7874
 [/qualcomm.co.in/]127.0.0.1:7874
@@ -27218,7 +27207,6 @@ https://dns.alidns.com/dns-query
 [/suppig.net/]127.0.0.1:7874
 [/supply-chain.ac.uk/]127.0.0.1:7874
 [/supplybestjerseys.com/]127.0.0.1:7874
-[/support.futunn.com/]127.0.0.1:7874
 [/supportfacebook.com/]127.0.0.1:7874
 [/supremacy.com/]127.0.0.1:7874
 [/supremacy.net/]127.0.0.1:7874
@@ -28513,8 +28501,6 @@ https://dns.alidns.com/dns-query
 [/tracfone.com/]127.0.0.1:7874
 [/tracingnetworks.ac.uk/]127.0.0.1:7874
 [/tracking-location.com/]127.0.0.1:7874
-[/trade.futunn.com/]127.0.0.1:7874
-[/trade.longportapp.com/]127.0.0.1:7874
 [/tradeup.com/]127.0.0.1:7874
 [/tradevip1.com/]127.0.0.1:7874
 [/tradingview.com/]127.0.0.1:7874
