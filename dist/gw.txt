@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-10-01 11:11:46
+# 自动生成于 2026-10-02 11:13:17
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32954 个域名，逐条规则）
+# 国外域名规则（共 32957 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -11790,6 +11790,7 @@ https://dns.alidns.com/dns-query
 [/fux.com/]127.0.0.1:7874
 [/fuxporn.com/]127.0.0.1:7874
 [/fuyin.net/]127.0.0.1:7874
+[/fuyin116.com/]127.0.0.1:7874
 [/fuyindiantai.org/]127.0.0.1:7874
 [/fuyu.org.tw/]127.0.0.1:7874
 [/fuzokudx.com/]127.0.0.1:7874
@@ -19784,6 +19785,7 @@ https://dns.alidns.com/dns-query
 [/muryouav.net/]127.0.0.1:7874
 [/muscdn.com/]127.0.0.1:7874
 [/musclegirlflix.com/]127.0.0.1:7874
+[/muse.ai/]127.0.0.1:7874
 [/muse.jhu.edu/]127.0.0.1:7874
 [/museumofwriting.ac.uk/]127.0.0.1:7874
 [/museumwales.ac.uk/]127.0.0.1:7874
@@ -30634,6 +30636,7 @@ https://dns.alidns.com/dns-query
 [/wallet.com/]127.0.0.1:7874
 [/walletconnect.com/]127.0.0.1:7874
 [/walletconnect.org/]127.0.0.1:7874
+[/wallhaven.cc/]127.0.0.1:7874
 [/wallmama.com/]127.0.0.1:7874
 [/wallornot.org/]127.0.0.1:7874
 [/wallpapercasa.com/]127.0.0.1:7874
