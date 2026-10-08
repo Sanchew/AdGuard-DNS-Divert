@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-10-07 11:24:04
+# 自动生成于 2026-10-08 11:38:45
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32958 个域名，逐条规则）
+# 国外域名规则（共 32988 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -1258,6 +1258,7 @@ https://dns.alidns.com/dns-query
 [/aib.ac.uk/]127.0.0.1:7874
 [/aibaobei.me/]127.0.0.1:7874
 [/aicoin.com/]127.0.0.1:7874
+[/aidc.com.tw/]127.0.0.1:7874
 [/aig/]127.0.0.1:7874
 [/aigo/]127.0.0.1:7874
 [/aihub.top/]127.0.0.1:7874
@@ -4509,6 +4510,7 @@ https://dns.alidns.com/dns-query
 [/blpevents.com/]127.0.0.1:7874
 [/blpprofessional.com/]127.0.0.1:7874
 [/blubrry.com/]127.0.0.1:7874
+[/blue-plus.net/]127.0.0.1:7874
 [/blueangellive.com/]127.0.0.1:7874
 [/bluearchive.jp/]127.0.0.1:7874
 [/bluefootcms.com/]127.0.0.1:7874
@@ -5769,6 +5771,7 @@ https://dns.alidns.com/dns-query
 [/cando.ac.uk/]127.0.0.1:7874
 [/candycumcity.com/]127.0.0.1:7874
 [/candypleasure.com/]127.0.0.1:7874
+[/cangku.moe/]127.0.0.1:7874
 [/cannington.ac.uk/]127.0.0.1:7874
 [/cannock.ac.uk/]127.0.0.1:7874
 [/canolfansgiliaucadarn.ac.uk/]127.0.0.1:7874
@@ -7340,6 +7343,7 @@ https://dns.alidns.com/dns-query
 [/cp44.net/]127.0.0.1:7874
 [/cpan.org/]127.0.0.1:7874
 [/cpc.ac.uk/]127.0.0.1:7874
+[/cpc.com.tw/]127.0.0.1:7874
 [/cpd25.ac.uk/]127.0.0.1:7874
 [/cpd4phd.ac.uk/]127.0.0.1:7874
 [/cpdnoticeboard.ac.uk/]127.0.0.1:7874
@@ -7488,6 +7492,7 @@ https://dns.alidns.com/dns-query
 [/csakporno.hu/]127.0.0.1:7874
 [/csc/]127.0.0.1:7874
 [/csc.ac.uk/]127.0.0.1:7874
+[/csc.com.tw/]127.0.0.1:7874
 [/cscd.ac.uk/]127.0.0.1:7874
 [/csct.ac.uk/]127.0.0.1:7874
 [/cscuk.ac.uk/]127.0.0.1:7874
@@ -8160,6 +8165,7 @@ https://dns.alidns.com/dns-query
 [/dgg.gg/]127.0.0.1:7874
 [/dghe.ac.uk/]127.0.0.1:7874
 [/dgwav.com/]127.0.0.1:7874
+[/dh.net/]127.0.0.1:7874
 [/dh44.lol/]127.0.0.1:7874
 [/dharamsalanet.com/]127.0.0.1:7874
 [/dharmakara.net/]127.0.0.1:7874
@@ -10141,6 +10147,7 @@ https://dns.alidns.com/dns-query
 [/exgfvideos.xxx/]127.0.0.1:7874
 [/exgirlfriendmarket.com/]127.0.0.1:7874
 [/exhentai.org/]127.0.0.1:7874
+[/eximbank.com.tw/]127.0.0.1:7874
 [/exiporn.com/]127.0.0.1:7874
 [/exmo.com/]127.0.0.1:7874
 [/exmormon.org/]127.0.0.1:7874
@@ -13214,7 +13221,9 @@ https://dns.alidns.com/dns-query
 [/hanime.me/]127.0.0.1:7874
 [/hanime.tv/]127.0.0.1:7874
 [/hanime.xxx/]127.0.0.1:7874
+[/hanime1.com/]127.0.0.1:7874
 [/hanime1.me/]127.0.0.1:7874
+[/hanimeone.me/]127.0.0.1:7874
 [/hanminzu.org/]127.0.0.1:7874
 [/hannah.ac.uk/]127.0.0.1:7874
 [/hanr-bao.mom/]127.0.0.1:7874
@@ -14672,6 +14681,7 @@ https://dns.alidns.com/dns-query
 [/icashpassport.com.mx/]127.0.0.1:7874
 [/icca.ac.uk/]127.0.0.1:7874
 [/iccliverpool.ac.uk/]127.0.0.1:7874
+[/icdf.org.tw/]127.0.0.1:7874
 [/ice/]127.0.0.1:7874
 [/ice-cse.ac.uk/]127.0.0.1:7874
 [/ice.audionow.com/]127.0.0.1:7874
@@ -15189,6 +15199,7 @@ https://dns.alidns.com/dns-query
 [/indienudes.com/]127.0.0.1:7874
 [/indies-av.co.jp/]127.0.0.1:7874
 [/indonesiaporn.name/]127.0.0.1:7874
+[/indsr.org.tw/]127.0.0.1:7874
 [/industrialtoys.com/]127.0.0.1:7874
 [/inews-api.tvb.com/]127.0.0.1:7874
 [/inf.news/]127.0.0.1:7874
@@ -15587,6 +15598,7 @@ https://dns.alidns.com/dns-query
 [/ip.sb/]127.0.0.1:7874
 [/ip73.com/]127.0.0.1:7874
 [/ipa-iphone.net/]127.0.0.1:7874
+[/ipac.global/]127.0.0.1:7874
 [/ipad.co.kr/]127.0.0.1:7874
 [/ipad.de/]127.0.0.1:7874
 [/ipad.host/]127.0.0.1:7874
@@ -16060,6 +16072,7 @@ https://dns.alidns.com/dns-query
 [/javcc.cc/]127.0.0.1:7874
 [/javcc.com/]127.0.0.1:7874
 [/javcdn.cc/]127.0.0.1:7874
+[/javchu.com/]127.0.0.1:7874
 [/javcl.com/]127.0.0.1:7874
 [/javct.net/]127.0.0.1:7874
 [/javcup.com/]127.0.0.1:7874
@@ -16688,6 +16701,7 @@ https://dns.alidns.com/dns-query
 [/khabdha.org/]127.0.0.1:7874
 [/khanacademy.org/]127.0.0.1:7874
 [/khatrimaza.org/]127.0.0.1:7874
+[/khc.edu.tw/]127.0.0.1:7874
 [/khmusic.com.tw/]127.0.0.1:7874
 [/khotruyentranhx.com/]127.0.0.1:7874
 [/ki/]127.0.0.1:7874
@@ -17009,6 +17023,7 @@ https://dns.alidns.com/dns-query
 [/lancs-initiative.ac.uk/]127.0.0.1:7874
 [/lancs.ac.uk/]127.0.0.1:7874
 [/lancsngfl.ac.uk/]127.0.0.1:7874
+[/landbank.com.tw/]127.0.0.1:7874
 [/landmap.ac.uk/]127.0.0.1:7874
 [/landmarks.ac.uk/]127.0.0.1:7874
 [/landofhope.tv/]127.0.0.1:7874
@@ -18384,6 +18399,7 @@ https://dns.alidns.com/dns-query
 [/mathstore.ac.uk/]127.0.0.1:7874
 [/mathsvideoclubs.ac.uk/]127.0.0.1:7874
 [/mathtutor.ac.uk/]127.0.0.1:7874
+[/matichon.co.th/]127.0.0.1:7874
 [/matome-plus.com/]127.0.0.1:7874
 [/matome-plus.net/]127.0.0.1:7874
 [/matrix.ac.uk/]127.0.0.1:7874
@@ -19236,6 +19252,7 @@ https://dns.alidns.com/dns-query
 [/miraheze.org/]127.0.0.1:7874
 [/mirailab.tech/]127.0.0.1:7874
 [/mirandanet.ac.uk/]127.0.0.1:7874
+[/mirdc.org.tw/]127.0.0.1:7874
 [/miroguide.com/]127.0.0.1:7874
 [/mirror.ac.uk/]127.0.0.1:7874
 [/mirror.xyz/]127.0.0.1:7874
@@ -19248,7 +19265,9 @@ https://dns.alidns.com/dns-query
 [/mirrorsedge2.com/]127.0.0.1:7874
 [/mirrorsedge2d.com/]127.0.0.1:7874
 [/misoc.ac.uk/]127.0.0.1:7874
+[/missav.ai/]127.0.0.1:7874
 [/missav.com/]127.0.0.1:7874
+[/missav.live/]127.0.0.1:7874
 [/missav.uno/]127.0.0.1:7874
 [/missav.ws/]127.0.0.1:7874
 [/missendenabbey.ac.uk/]127.0.0.1:7874
@@ -19391,6 +19410,7 @@ https://dns.alidns.com/dns-query
 [/moefuns.co/]127.0.0.1:7874
 [/moegirl.org/]127.0.0.1:7874
 [/moeimg.net/]127.0.0.1:7874
+[/moeli-desu.com/]127.0.0.1:7874
 [/moemax.net/]127.0.0.1:7874
 [/moeshare.cc/]127.0.0.1:7874
 [/moez-m.com/]127.0.0.1:7874
@@ -20191,6 +20211,7 @@ https://dns.alidns.com/dns-query
 [/nationalskillsacademy.ac.uk/]127.0.0.1:7874
 [/nationaltechnicianscentre.ac.uk/]127.0.0.1:7874
 [/nationsonline.org/]127.0.0.1:7874
+[/nationthailand.com/]127.0.0.1:7874
 [/nationwide.com/]127.0.0.1:7874
 [/nativeincolour.com.au/]127.0.0.1:7874
 [/natmatsci.ac.uk/]127.0.0.1:7874
@@ -21232,6 +21253,7 @@ https://dns.alidns.com/dns-query
 [/nss.ac.uk/]127.0.0.1:7874
 [/nsstatic.net/]127.0.0.1:7874
 [/nssurge.com/]127.0.0.1:7874
+[/nstc.org.tw/]127.0.0.1:7874
 [/nsu.ac.uk/]127.0.0.1:7874
 [/nsw.ac.uk/]127.0.0.1:7874
 [/ntb.ac.uk/]127.0.0.1:7874
@@ -22990,6 +23012,7 @@ https://dns.alidns.com/dns-query
 [/pokerstars.net/]127.0.0.1:7874
 [/pokerstrategy.com/]127.0.0.1:7874
 [/pol.ac.uk/]127.0.0.1:7874
+[/poland.tw/]127.0.0.1:7874
 [/political-science.ac.uk/]127.0.0.1:7874
 [/politicalchina.org/]127.0.0.1:7874
 [/politicalconsultation.org/]127.0.0.1:7874
@@ -24588,6 +24611,7 @@ https://dns.alidns.com/dns-query
 [/rocksdb.org/]127.0.0.1:7874
 [/rocksextube.com/]127.0.0.1:7874
 [/rockstargames.com/]127.0.0.1:7874
+[/rocmgov.org/]127.0.0.1:7874
 [/rodbaston.ac.uk/]127.0.0.1:7874
 [/roe.ac.uk/]127.0.0.1:7874
 [/roehampton-online.ac.uk/]127.0.0.1:7874
@@ -27796,6 +27820,7 @@ https://dns.alidns.com/dns-query
 [/texture.com/]127.0.0.1:7874
 [/tf/]127.0.0.1:7874
 [/tfc-taiwan.org.tw/]127.0.0.1:7874
+[/tfd.org.tw/]127.0.0.1:7874
 [/tferwq.com/]127.0.0.1:7874
 [/tfhub.dev/]127.0.0.1:7874
 [/tfiflve.com/]127.0.0.1:7874
@@ -28700,6 +28725,7 @@ https://dns.alidns.com/dns-query
 [/tte-lisa.ac.uk/]127.0.0.1:7874
 [/tteshop.com/]127.0.0.1:7874
 [/ttetraining.ac.uk/]127.0.0.1:7874
+[/ttl.com.tw/]127.0.0.1:7874
 [/ttlivecdn.com/]127.0.0.1:7874
 [/ttrb.ac.uk/]127.0.0.1:7874
 [/tttan.com/]127.0.0.1:7874
@@ -28890,6 +28916,7 @@ https://dns.alidns.com/dns-query
 [/twelve.today/]127.0.0.1:7874
 [/twenty65.ac.uk/]127.0.0.1:7874
 [/twerkingbutt.com/]127.0.0.1:7874
+[/twfhcsec.com.tw/]127.0.0.1:7874
 [/twftp.org/]127.0.0.1:7874
 [/twgov.tw/]127.0.0.1:7874
 [/twgreatdaily.com/]127.0.0.1:7874
@@ -29007,6 +29034,7 @@ https://dns.alidns.com/dns-query
 [/txvlog.com/]127.0.0.1:7874
 [/txxx.com/]127.0.0.1:7874
 [/txxx1.com/]127.0.0.1:7874
+[/tybio.com.tw/]127.0.0.1:7874
 [/tycool.com/]127.0.0.1:7874
 [/tyler-brown.com/]127.0.0.1:7874
 [/tyms2022.com/]127.0.0.1:7874
@@ -30568,6 +30596,7 @@ https://dns.alidns.com/dns-query
 [/vs.com/]127.0.0.1:7874
 [/vsallin.net/]127.0.0.1:7874
 [/vsassets.io/]127.0.0.1:7874
+[/vscc.org.tw/]127.0.0.1:7874
 [/vsco.co/]127.0.0.1:7874
 [/vscode-cdn.net/]127.0.0.1:7874
 [/vscode-unpkg.net/]127.0.0.1:7874
@@ -31942,6 +31971,7 @@ https://dns.alidns.com/dns-query
 [/xvxxtube.com/]127.0.0.1:7874
 [/xwbo.com/]127.0.0.1:7874
 [/xx-map.com/]127.0.0.1:7874
+[/xx.net/]127.0.0.1:7874
 [/xx9.app/]127.0.0.1:7874
 [/xxbay.com/]127.0.0.1:7874
 [/xxbb9.com/]127.0.0.1:7874
