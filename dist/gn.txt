@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-10-16 10:20:05
+# 自动生成于 2026-10-17 10:13:00
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -62,7 +62,7 @@
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 110225 个域名，逐条规则）
+# 国内域名规则（共 110181 个域名，逐条规则）
 # 已排除 27 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/0.xn--czrs0t/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -293,7 +293,6 @@
 [/020ym.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/020zp.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/020ztc.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/021-116114.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/021.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/021.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/021.xn--5tzm5g/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -572,7 +571,6 @@
 [/0515kf.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/0515smw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/0515yc.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/0515yy.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/0516k.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/0517.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/0517cw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -4468,7 +4466,6 @@
 [/3y1.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/3y7h.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/3yakj.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/3ygww.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/3yoqu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/3yt.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/3yt.la/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -7898,7 +7895,6 @@
 [/81677.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/816798.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/8169.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/817398.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/81761.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/818.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/81813.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -8459,7 +8455,6 @@
 [/91360.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/91378.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/913pc.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/913vr.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/913you.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/9149df3441020.beer/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/915.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -9289,6 +9284,7 @@
 [/9fav.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/9fb8d5b6bff66a4d.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/9fbank.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
+[/9fe06a.fyi/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/9fe3e7d4c10311.beer/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/9fh5.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/9first.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -9557,7 +9553,6 @@
 [/abbbio.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/abbisko.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/abbooa.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/abbreviat.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/abbyschoice.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/abbyychina.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/abc-ca.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -11199,7 +11194,6 @@
 [/alidnsv122.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/alidnsv4.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/alidnsv5.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/aliedge.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/aliensidea.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/alientek.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/aliexpress-media.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -11283,7 +11277,6 @@
 [/aliwork.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/aliwx.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/alixiaomi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/alixiaoyouhui.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/alixixi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/alixox.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/aliyiyao.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -14147,7 +14140,6 @@
 [/baofeng365.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/baofoo.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/baofoo.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/baofu.art/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/baofu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/baofu.info/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/baofull.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -15262,7 +15254,6 @@
 [/bhidi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bhjcsc.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bhjh168.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/bhjinghao.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bhjjj360.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bhjuxian.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bhkyxy.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -16235,7 +16226,6 @@
 [/bjppa.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bjpryk.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bjqh.org/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/bjqhgjj.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bjqichezl.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bjqingyang.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bjqlg.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -17146,7 +17136,6 @@
 [/bpqwxsh.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bpsemi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bpteach.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/bpuvuun0xg.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bpxxfw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bpxxvo.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bq04.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -17664,7 +17653,6 @@
 [/byclean.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/byd.auto/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/byd.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/byd119.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bydauto.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bydglobal.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/bydhaiyang.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -18005,7 +17993,6 @@
 [/c558624c4b6f5f42.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/c578801be1009.beer/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/c57e6607c10292.beer/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/c57fbfc585.skin/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/c5a13eec21010.beer/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/c5b27c7c01019.beer/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/c5b6bpoq7q.world/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -20646,7 +20633,6 @@
 [/chihao.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/chihealbio.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/chiheba.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/chiheshan.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/chihkao.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/chihm.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/chiji-h5.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -25194,7 +25180,6 @@
 [/cqtkjj.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/cqtkyy.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/cqtl.org/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/cqtlskj.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/cqtn.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/cqtnfs.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/cqtqzx.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -25937,7 +25922,6 @@
 [/cthuwork.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/cti-cert.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ctibet.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/ctic-lab.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ctic-labs.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ctiea.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ctiforum.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -26316,7 +26300,6 @@
 [/cydiaa.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/cydiakk.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/cydow.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/cyegushi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/cyfeng.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/cyfengchao.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/cyfyydyfy.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -26916,7 +26899,6 @@
 [/dalao.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dalaosz.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/daleigroup.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/dalelingtea.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dali-group.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dalian-chuanpiao.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dalianair-china.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -27253,7 +27235,6 @@
 [/dataodu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dataojo.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dataoke.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/datarelab.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/datarj.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/datasheet5.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/datastoragesummit.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -27659,7 +27640,6 @@
 [/ddxhx.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ddxhyl.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ddxq.mobi/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/ddxs.vip/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ddxsku.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ddxstxt8.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ddyjapp.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -28633,7 +28613,6 @@
 [/dingdone.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dingdongcloud.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dingdongebusiness.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/dingdongmao.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dingdongxiaoqu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dingdx.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dingefactory.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -28754,6 +28733,7 @@
 [/ditiezu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ditiezu.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ditrit.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
+[/dittocdn.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ditu.live.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dituhui.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dituw.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -29105,6 +29085,7 @@
 [/dns.alidns.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dns.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dns.la/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
+[/dns.lat/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dns.pub/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dns002.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dns0755.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -30564,7 +30545,6 @@
 [/dyswl.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dytmgm.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dytss.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/dytt2028.cc/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dytt789.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dytt7899.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dytt8.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -34651,7 +34631,6 @@
 [/fnnas.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/fnnas.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/fnnsh.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/fnnspa.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/fnos.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/fnrcw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/fnrczp.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -35462,7 +35441,6 @@
 [/fuxiaoli.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/fuxila.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/fuxinbank.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/fuxinews.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/fuxinghf.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/fuxingtech.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/fuxingwang.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -35802,7 +35780,6 @@
 [/g1080.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/g12e.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/g12e.org/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/g15wt3ci68.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/g188.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/g1c5.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/g1d.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -36493,7 +36470,6 @@
 [/gdgrsw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/gdguangdong.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/gdguozhi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/gdgwyw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/gdgxw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/gdgxxbw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/gdgzhengzhou.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -38289,7 +38265,6 @@
 [/googleplus.party/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/googleppy.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/googlevoice.org/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/googley8rb.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/googleyixia.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/googoc.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/googol-power.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -38537,6 +38512,7 @@
 [/graueneko.xyz/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/gravity-engine.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/graz.quest/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
+[/grboi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/grcbank.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/grchina.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/great-future.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -40060,7 +40036,6 @@
 [/gxhtjx.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/gxhtte.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/gxhuabao.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/gxhuachi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/gxhuachuang.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/gxhuadu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/gxhuaen.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -42732,7 +42707,6 @@
 [/haomenke.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/haomifi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/haomingguan.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/haommn.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/haomo-tech.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/haomove.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/haomzl.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -50807,7 +50781,6 @@
 [/iquickfish.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/iqujing.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/iqunix.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/iqunix.store/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/iqupdate.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/iqxedu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/ir56.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -54298,7 +54271,6 @@
 [/johnlz.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/johnmedia.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/johouse.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/joi09110pt.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/joiest.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/joinchitchat.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/joindata.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -57054,7 +57026,6 @@
 [/kilamanbo.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/kililife.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/killdb.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/kilo1kw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/kiloai.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/kimberley-technology.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/kimderlite.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -58899,7 +58870,6 @@
 [/laravel-admin.org/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/laravelacademy.org/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/larenla.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/large.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/lark-passport-qa-sg.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/larkapp.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/larkcloud.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -60126,7 +60096,6 @@
 [/lighte-tech.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/lightgx.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/lighthg.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/lighting-china.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/lightingchina.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/lightinit.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/lightky.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -60155,7 +60124,6 @@
 [/lihua.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/lihuadonghua.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/lihuamuye.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/lihuashouji.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/lihuasoft.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/lihui.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/lihuia.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -64057,7 +64025,6 @@
 [/mekedoo.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/meldingcloud.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/melecode.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/melizhi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/mellowactivy.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/mellowgroups.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/melon-eptc.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -68117,7 +68084,6 @@
 [/njkskn.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/njkzgjj.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/njlanwu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/njletop.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/njlg56.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/njlhzn.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/njlianyang.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -69865,7 +69831,6 @@
 [/onkocares.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/online-cmcc.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/online-edu.org/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/online-phaidon.shop/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/onlinecn.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/onlineding.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/onlinedown.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -70691,7 +70656,6 @@
 [/pangdago.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/pangdasc.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/pangdly.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/panggugu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/panghuasheng.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/pangjun.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/pangku.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -71369,7 +71333,6 @@
 [/php168.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/php318.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/phpbbchina.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/phpcashshare.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/phpchina.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/phpcom.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/phpcomposer.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -72037,7 +72000,6 @@
 [/portal.naea1.uds.lenovo.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/portal.uds.lenovo.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/portalcdn.cdnetworks.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/portcontainer.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/porthebei.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/portjs.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/portjs.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -72704,6 +72666,7 @@
 [/pymh.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/pyneo.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/pyou.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
+[/pyquan.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/pyrc.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/pyshszh.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/pystar.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -79789,6 +79752,7 @@
 [/shengsci.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/shengshizhicheng.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/shengtai.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
+[/shengtai.cyou/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/shengtaigroup.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/shengtian.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/shengtiangames.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -80779,7 +80743,6 @@
 [/shuangxingseed.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/shuangxinhui.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/shuangxiumall.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/shuangyanjie.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/shuangyingmenye.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/shuangyingsx.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/shuangyuejn.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -86609,7 +86572,6 @@
 [/teambition.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/teambition.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/teambitionapis.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/teamlogs.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/teamminus.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/teamshub.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/teamtop.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -86996,6 +86958,7 @@
 [/tenganxinxi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/tengbai-it.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/tengbo.cc/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
+[/tengcanxi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/tengchangjiancai.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/tengdatumu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/tengdawl.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -87386,7 +87349,6 @@
 [/thmzedu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/thny.cc/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/thojmhw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/thomanmustore.shop/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/thomasschools.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/thoreco.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/thorn.red/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -89987,7 +89949,6 @@
 [/tyust.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/tyuyan.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/tyuyan.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/tywbw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/tywh.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/tywheels.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/tywx.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -95069,7 +95030,6 @@
 [/woc.space/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/woc88.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/wochacha.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/wochaw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/woda.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/wodasi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/wodavip.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -97087,6 +97047,7 @@
 [/xhjyxxw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xhlcsl.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xhlsgs.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
+[/xhlylx.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xhma.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xhmedia.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xhmwxy.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -97945,7 +97906,6 @@
 [/xiguaapp.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xiguabook.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xiguaji.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/xiguang.xyz/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xiguaplayer.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xiguashipin.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xiguavideo.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -99106,7 +99066,6 @@
 [/xmkanshu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xmkj.beer/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xml-journal.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/xmldz4.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xmlhifi.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xmlib.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xmlvbarcode.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -99389,7 +99348,6 @@
 [/xn--w9qr0k.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xn--w9qy23cc6adz7d.net/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xn--wbsy6nk4mnpa575i6fy.xn--3ds443g/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/xn--wbsz85a2a.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xn--wlq49r6tr7zal0u.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xn--wxtr44c.live/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xn--xcrv5deweeznlnez29a.xn--3ds443g/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -99900,7 +99858,6 @@
 [/xueshu.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xueshu5.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xueshuda.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/xueshujia.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xueshut.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xueshuwenhai.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/xuesongshuwood.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
@@ -108418,7 +108375,6 @@
 [/zjhwgroup.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/zjhx520.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/zjhxgf.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
-[/zjhxw.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/zjhyrcb.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/zjhzgy.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/zjhzjt.com/]180.76.76.76 119.29.29.29 223.5.5.5 114.114.114.114 192.168.8.1 https://doh.pub/dns-query https://dns.alidns.com/dns-query
