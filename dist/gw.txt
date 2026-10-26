@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-10-25 10:23:28
+# 自动生成于 2026-10-26 10:23:07
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32992 个域名，逐条规则）
+# 国外域名规则（共 33000 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -112,6 +112,7 @@ https://dns.alidns.com/dns-query
 [/123-hp.com/]127.0.0.1:7874
 [/123av.com/]127.0.0.1:7874
 [/123av.me/]127.0.0.1:7874
+[/123av.org/]127.0.0.1:7874
 [/123bin.cc/]127.0.0.1:7874
 [/123dapp.com/]127.0.0.1:7874
 [/123dappipad.com/]127.0.0.1:7874
@@ -16741,6 +16742,7 @@ https://dns.alidns.com/dns-query
 [/kilmeadeandfriends.com/]127.0.0.1:7874
 [/kimchi.tv/]127.0.0.1:7874
 [/kimogirl.cc/]127.0.0.1:7874
+[/kimootoko.net/]127.0.0.1:7874
 [/kimosex.com/]127.0.0.1:7874
 [/kimy.com.tw/]127.0.0.1:7874
 [/kindgirls.com/]127.0.0.1:7874
@@ -19243,6 +19245,7 @@ https://dns.alidns.com/dns-query
 [/miniwindsor.com/]127.0.0.1:7874
 [/miniworkshop.com/]127.0.0.1:7874
 [/miniyaletown.ca/]127.0.0.1:7874
+[/minkch.com/]127.0.0.1:7874
 [/minnano-av.com/]127.0.0.1:7874
 [/minneapolisbmw.com/]127.0.0.1:7874
 [/minneapolisbmw.net/]127.0.0.1:7874
@@ -19638,6 +19641,7 @@ https://dns.alidns.com/dns-query
 [/movidius.com/]127.0.0.1:7874
 [/movidius.net/]127.0.0.1:7874
 [/movie-erog.com/]127.0.0.1:7874
+[/movie.eroterest.net/]127.0.0.1:7874
 [/movie1000.xyz/]127.0.0.1:7874
 [/moviefap.com/]127.0.0.1:7874
 [/moviepost.com/]127.0.0.1:7874
@@ -21030,7 +21034,9 @@ https://dns.alidns.com/dns-query
 [/nixos.org/]127.0.0.1:7874
 [/niziero.info/]127.0.0.1:7874
 [/njactb.org/]127.0.0.1:7874
+[/njav.com/]127.0.0.1:7874
 [/njav.tv/]127.0.0.1:7874
+[/njavtv.com/]127.0.0.1:7874
 [/njncscotlandscolleges.ac.uk/]127.0.0.1:7874
 [/njuice.com/]127.0.0.1:7874
 [/nkc.ac.uk/]127.0.0.1:7874
@@ -22961,6 +22967,7 @@ https://dns.alidns.com/dns-query
 [/pn/]127.0.0.1:7874
 [/pnas.org/]127.0.0.1:7874
 [/pnc/]127.0.0.1:7874
+[/po-kaki-to.com/]127.0.0.1:7874
 [/po18.tw/]127.0.0.1:7874
 [/po2b.com/]127.0.0.1:7874
 [/pobieramy.top/]127.0.0.1:7874
@@ -33025,6 +33032,7 @@ https://dns.alidns.com/dns-query
 [/zorglist.com/]127.0.0.1:7874
 [/zorrovpn.com/]127.0.0.1:7874
 [/zozotown.com/]127.0.0.1:7874
+[/zozovideo.com/]127.0.0.1:7874
 [/zpn.im/]127.0.0.1:7874
 [/zqqpwz.com/]127.0.0.1:7874
 [/zsh.org/]127.0.0.1:7874
